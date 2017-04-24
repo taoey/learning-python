@@ -1,0 +1,77 @@
+1491480098413	geckodriver	INFO	Listening on 127.0.0.1:50911
+1491480100473	mozprofile::profile	INFO	Using profile path C:\Users\acer\AppData\Local\Temp\rust_mozprofile.P5gJmqaBZnK3
+1491480100520	geckodriver::marionette	INFO	Starting browser D:\CCApplication\Mozilla Firefox\firefox.exe with args []
+1491480100583	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50935
+1491480107424	Marionette	INFO	Listening on port 50927
+1491480111892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3197: TypeError: this.tabs is undefined
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3197: TypeError: this.tabs is undefined
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3197: TypeError: this.tabs is undefined
+1491485598080	geckodriver	INFO	Listening on 127.0.0.1:63711
+1491485600249	mozprofile::profile	INFO	Using profile path C:\Users\acer\AppData\Local\Temp\rust_mozprofile.MOxyaqvtsmyd
+1491485600374	geckodriver::marionette	INFO	Starting browser D:\CCApplication\Mozilla Firefox\firefox.exe with args []
+1491485600419	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63731
+1491485605462	Marionette	INFO	Listening on port 63728
+1491485608762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://sjs.sinajs.cn/blog7/index.js?606.js, line 4: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/index.js?606.js, line 18: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/index.js?606.js, line 32: unreachable code after return statement
+JavaScript error: http://d1.sina.com.cn/litong/kuaijieweibo/yafeng/boke/js/scroll.js, line 5: TypeError: o is null
+[Child 6856] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1491485761864	geckodriver	INFO	Listening on 127.0.0.1:64046
+1491485763925	mozprofile::profile	INFO	Using profile path C:\Users\acer\AppData\Local\Temp\rust_mozprofile.TCmVGEte83DH
+1491485763930	geckodriver::marionette	INFO	Starting browser D:\CCApplication\Mozilla Firefox\firefox.exe with args []
+1491485763986	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64067
+1491485767715	Marionette	INFO	Listening on port 64067
+1491485771062	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10160] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+?606.js, line 18: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/index.js?606.js, line 32: unreachable code after return statement
+1491486002673	geckodriver	INFO	Listening on 127.0.0.1:53803
+1491486004736	mozprofile::profile	INFO	Using profile path C:\Users\acer\AppData\Local\Temp\rust_mozprofile.mdKfTcDuFREe
+1491486004740	geckodriver::marionette	INFO	Starting browser D:\CCApplication\Mozilla Firefox\firefox.exe with args []
+1491486004791	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53826
+1491486009301	Marionette	INFO	Listening on port 53826
+1491486012363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491486082070	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 9456] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+ajs.cn/blog7/index.js?606.js, line 32: unreachable code after return statement
+JavaScript error: http://d1.sina.com.cn/litong/kuaijieweibo/yafeng/boke/js/scroll.js, line 5: TypeError: o is null
+1491486079152	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 2284] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1491486224164	geckodriver	INFO	Listening on 127.0.0.1:53187
+1491486226230	mozprofile::profile	INFO	Using profile path C:\Users\acer\AppData\Local\Temp\rust_mozprofile.rAJ4zsb0t1js
+1491486226235	geckodriver::marionette	INFO	Starting browser D:\CCApplication\Mozilla Firefox\firefox.exe with args []
+1491486226271	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53195
+1491486227880	Marionette	INFO	Listening on port 53195
+1491486229285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://sjs.sinajs.cn/blog7/index.js?606.js, line 4: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/index.js?606.js, line 18: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/index.js?606.js, line 32: unreachable code after return statement
+JavaScript error: http://d1.sina.com.cn/litong/kuaijieweibo/yafeng/boke/js/scroll.js, line 5: TypeError: o is null
+[Child 9504] WARNING: pipe error: 109: file c:/builds/moz2_s1491486271829	mozprofile::profile	INFO	Using profile path C:\Users\acer\AppData\Local\Temp\rust_mozprofile.m0s98nKohuHR
+1491486271835	geckodriver::marionette	INFO	Starting browser D:\CCApplication\Mozilla Firefox\firefox.exe with args []
+1491486271892	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53364
+1491486274341	Marionette	INFO	Listening on port 53364
+1491486275737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://sjs.sinajs.cn/blog7/index.js?606.js, line 4: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/index.js?606.js, line 18: unreachable code after return statement
+JavaScript warning: http://sjs.sinajs.cn/blog7/index.js?606.js, line 32: unreachable code after return statement
+JavaScript error: http://d1.sina.com.cn/litong/kuaijieweibo/yafeng/boke/js/scroll.js, line 5: TypeError: o is null
+JavaScript error: chrome://marionette/content/listener.js, line 1060: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[NPAPI 10068] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+JavaScript error: https://misc.360buyimg.com/??jdf/1.0.0/unit/globalInit/2.0.0/globalInit.js,jdf/1.0.0/unit/follow/1.0.0/follow.js,jdf/1.0.0/ui/switchable/1.0.0/switchable.js,jdf/1.0.0/ui/tips/1.0.0/tips.js,jdf/1.0.0/ui/lazyload/1.0.0/lazyload.js,product/module/clslog.js,product/module/tools.js,product/module/footprint-v2.js,product/search/1.0.4/js/pageInfo.js,product/search/1.0.4/js/utils.js,product/search/1.0.4/js/template.js,product/search/1.0.4/js/noResult.js,product/search/1.0.4/js/responsive.js,product/search/1.0.4/js/breadCrumb.js,product/search/1.0.4/js/sidebar.js,product/search/1.0.4/js/selector.js,product/search/1.0.4/js/goodsList.js,product/search/1.0.4/js/shopList.js,product/search/1.0.4/js/allResultBox.js,product/search/1.0.4/js/featuredGoods.js,product/search/1.0.4/js/couponBuy.js,product/search/1.0.4/js/coudanBuy.js,product/search/1.0.4/js/exchangeBuy.js,product/search/1.0.4/js/imageSearch.js,product/m/1.0.0/widget/p-contrast/p-contrast.js, line 43: TypeError: f.attr(...) is undefined
+JavaScript error: https://misc.360buyimg.com/??jdf/1.0.0/unit/globalInit/2.0.0/globalInit.js,jdf/1.0.0/unit/follow/1.0.0/follow.js,jdf/1.0.0/ui/switchable/1.0.0/switchable.js,jdf/1.0.0/ui/tips/1.0.0/tips.js,jdf/1.0.0/ui/lazyload/1.0.0/lazyload.js,product/module/clslog.js,product/module/tools.js,product/module/footprint-v2.js,product/search/1.0.4/js/pageInfo.js,product/search/1.0.4/js/utils.js,product/search/1.0.4/js/template.js,product/search/1.0.4/js/noResult.js,product/search/1.0.4/js/responsive.js,product/search/1.0.4/js/breadCrumb.js,product/search/1.0.4/js/sidebar.js,product/search/1.0.4/js/selector.js,product/search/1.0.4/js/goodsList.js,product/search/1.0.4/js/shopList.js,product/search/1.0.4/js/allResultBox.js,product/search/1.0.4/js/featuredGoods.js,product/search/1.0.4/js/couponBuy.js,product/search/1.0.4/js/coudanBuy.js,product/search/1.0.4/js/exchangeBuy.js,product/search/1.0.4/js/imageSearch.js,product/m/1.0.0/widget/p-contrast/p-contrast.js, line 43: TypeError: f.attr(...) is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 7980] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
