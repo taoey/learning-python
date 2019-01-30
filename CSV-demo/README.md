@@ -1,5 +1,11 @@
 ## python操作csv文件
 
+参考资料
+- [Python对于CSV文件的读取与写入](https://www.cnblogs.com/unnameable/p/7366437.html)
+- [python读写csv时中文乱码问题解决办法](https://www.cnblogs.com/shengulong/p/7097869.html)
+- [python 字符串格式化](https://www.cnblogs.com/xxby/p/5571620.html)
+
+
 需要读取操作的文件:test_data.csv
 ```csv
 'name','age'
@@ -52,3 +58,20 @@ D:\Anaconda\python.exe E:/projects/python/python_deoms/CSV-demo/CSV_Demo.py
 ["'明'", "'15'"]
 ```
 根据结果，我们看到，我们成功读出了csv中的内容
+
+
+
+关于python中的format字符串格式化
+```python
+tp1 = "i am {}, age {}, {}".format("seven", 18, 'alex')
+tp2 = "i am {}, age {}, {}".format(*["seven", 18, 'alex'])
+tp3 = "i am {0}, age {1}, really {0}".format("seven", 18)
+tp4 = "i am {0}, age {1}, really {0}".format(*["seven", 18])
+tp5 = "i am {name}, age {age}, really {name}".format(name="seven", age=18)
+tp6 = "i am {name}, age {age}, really {name}".format(**{"name": "seven", "age": 18})
+tp7 = "i am {0[0]}, age {0[1]}, really {0[2]}".format([1, 2, 3], [11, 22, 33])
+tp8 = "i am {:s}, age {:d}, money {:f}".format("seven", 18, 88888.1)
+tp9 = "i am {:s}, age {:d}".format(*["seven", 18])
+tp10 = "i am {name:s}, age {age:d}".format(name="seven", age=18)
+tp11 = "i am {name:s}, age {age:d}".format(**{"name": "seven", "age": 18})
+```
