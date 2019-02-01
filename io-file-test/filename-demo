@@ -1,0 +1,20 @@
+import os
+
+def scanFiles(root):
+    '''
+    扫描一个路径下的所有文件
+    :param root:
+    :return:
+    '''
+    fs = os.listdir(root)
+    for f in fs :
+        f_path = os.path.join(root,f)
+        if not os.path.isdir(f_path):
+            print("文件："+f_path)
+        else:
+            print("文件夹："+f_path)
+            scanFiles(f_path)
+
+if __name__ == '__main__':
+    path = 'E:\\temp\\file_path_demo'
+    scanFiles(path)

@@ -5,7 +5,7 @@
 '''
 
 def file(path,old,new):
-    with open(path, "r+",encoding='utf-8') as f:  # 不用w w会清空数据
+    with open(path, "r+",encoding='utf-8') as f:  # 不用w，w会清空数据
         s = f.read()  # 读出
         f.seek(0, 0)  # 指针移到头
         f.flush()
