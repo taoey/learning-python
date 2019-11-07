@@ -1,0 +1,7 @@
+{
+  "北京K酷时尚广场美食城":["Expenses:Food:Dinner","Liabilities:CreditCard"],
+  "北京轨道交通路网管理有限公司":["Expenses:Traffic:Subway","Liabilities:CreditCard"],
+  "上海蒜芽信息科技有限公司":["Expenses:Traffic:Train","Liabilities:CreditCard"],
+  "博时基金管理有限公司": ["Assets:Bank","Income:Financing"],
+  "other":["Expenses:Other","Liabilities:CreditCard"]
+}
