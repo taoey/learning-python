@@ -1,0 +1,4 @@
+curl https://intoli.com/install-google-chrome.sh | bash
+google-chrome-stable --no-sandbox --headless --disable-gpu --screenshot     https://www.suning.com/
+google-chrome-stable --no-sandbox --version  # Google Chrome 85.0.4183.102
+http://npm.taobao.org/mirrors/chromedriver/

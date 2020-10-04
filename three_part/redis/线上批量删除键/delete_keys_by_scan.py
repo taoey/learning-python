@@ -10,6 +10,7 @@ scan命令的第一个入参从0开始代表从头扫描
 scan命令的返回是(pos, [])元组，第一个pos可以作为下次扫描的入参pos，第二个值就是扫描到的KEY
 scan命令的第三个参数，是本次扫描的KEY数目，比如传递10万个，但是返回的LIST可能是0，因为有0个匹配
 redis的delete命令传递的是array参数，可以用*list传递
+执行完批量删除之后，需要手动执行一下内存清理：redis-cli -h 127.0.0.1 memory purge
 """
 client = redis.StrictRedis(host="127.0.0.1", port=6379)
 

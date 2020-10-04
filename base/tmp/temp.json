@@ -1,0 +1,572 @@
+{
+  "data": [
+    {
+      "singerid": "103361,104315",
+      "language": "国语",
+      "music_no": "7594513",
+      "music_name": "红尘情歌(H)",
+      "singer": "高安,大陆男歌星,GA,gao_an,黑鸭子,中国组合,HYZ,hei_ya_zi",
+      "songid": "7594513",
+      "rate": 0
+    },
+    {
+      "singerid": "107419",
+      "language": "国语",
+      "music_no": "7594510",
+      "music_name": "后来(H)",
+      "singer": "刘若英,港台女歌星,LRY,liu_ruo_ying",
+      "songid": "7594510",
+      "rate": 0
+    },
+    {
+      "singerid": "112125,103395",
+      "language": "国语",
+      "music_no": "7456196",
+      "music_name": "我的好兄弟(H)",
+      "singer": "小沈阳,大陆男歌星,XSY,xiao_shen_yang,高进,大陆男歌星,GJ,gao_jin",
+      "songid": "7456196",
+      "rate": 0
+    },
+    {
+      "singerid": "103361,108555",
+      "language": "国语",
+      "music_no": "7595199",
+      "music_name": "花桥流水(H)",
+      "singer": "高安,大陆男歌星,GA,gao_an,纳兰珠儿,大陆女歌星,NLZE,na_lan_zhu_er",
+      "songid": "7595199",
+      "rate": 0
+    },
+    {
+      "singerid": "114578",
+      "language": "国语",
+      "music_no": "7455672",
+      "music_name": "过火(H)",
+      "singer": "张信哲,港台男歌星,ZXZ,zhang_xin_zhe",
+      "songid": "7455672",
+      "rate": 0
+    },
+    {
+      "singerid": "115270",
+      "language": "国语",
+      "music_no": "7456197",
+      "music_name": "朋友(H)",
+      "singer": "周华健,港台男歌星,ZHJ,zhou_hua_jian",
+      "songid": "7456197",
+      "rate": 0
+    },
+    {
+      "singerid": "111741",
+      "language": "国语",
+      "music_no": "7659485",
+      "music_name": "挪威的森林(H)",
+      "singer": "伍佰,港台男歌星,WB,wu_bai",
+      "songid": "7659485",
+      "rate": 0
+    },
+    {
+      "singerid": "106443",
+      "language": "国语",
+      "music_no": "7595198",
+      "music_name": "朋友的酒(H)",
+      "singer": "李晓杰,大陆男歌星,LXJ,li_xiao_jie",
+      "songid": "7595198",
+      "rate": 0
+    },
+    {
+      "singerid": "114684",
+      "language": "国语",
+      "music_no": "7595183",
+      "music_name": "大海(H)",
+      "singer": "张雨生`,港台男歌星,ZYS,zhang_yu_sheng",
+      "songid": "7595183",
+      "rate": 0
+    },
+    {
+      "singerid": "150198",
+      "language": "国语",
+      "music_no": "7595190",
+      "music_name": "多想在平庸的生活拥抱你(H)",
+      "singer": "隔壁老樊,大陆男歌星,GBLF,ge_bi_lao_fan",
+      "songid": "7595190",
+      "rate": 0
+    },
+    {
+      "singerid": "108957",
+      "language": "国语",
+      "music_no": "7595193",
+      "music_name": "等你等了那么久(H)",
+      "singer": "祁隆,大陆男歌星,QL,qi_long",
+      "songid": "7595193",
+      "rate": 0
+    },
+    {
+      "singerid": "115121",
+      "language": "国语",
+      "music_no": "7658263",
+      "music_name": "包容(H)",
+      "singer": "郑源,大陆男歌星,ZY,zheng_yuan",
+      "songid": "7658263",
+      "rate": 0
+    },
+    {
+      "singerid": "113254,114089",
+      "language": "国语",
+      "music_no": "7595187",
+      "music_name": "凉凉(H)",
+      "singer": "杨宗纬,港台男歌星,YZW,yang_zong_wei,张碧晨,大陆女歌星,ZBC,zhang_bi_chen",
+      "songid": "7595187",
+      "rate": 0
+    },
+    {
+      "singerid": "111741",
+      "language": "国语",
+      "music_no": "7595191",
+      "music_name": "突然的自我(H)",
+      "singer": "伍佰,港台男歌星,WB,wu_bai",
+      "songid": "7595191",
+      "rate": 0
+    },
+    {
+      "singerid": "102489",
+      "language": "国语",
+      "music_no": "7595192",
+      "music_name": "闯码头(H)",
+      "singer": "大哲,大陆男歌星,DZ,da_zhe",
+      "songid": "7595192",
+      "rate": 0
+    },
+    {
+      "singerid": "115129",
+      "language": "国语",
+      "music_no": "7595182",
+      "music_name": "水手(H)",
+      "singer": "郑智化,港台男歌星,ZZH,zheng_zhi_hua",
+      "songid": "7595182",
+      "rate": 0
+    },
+    {
+      "singerid": "115642",
+      "language": "国语",
+      "music_no": "7595197",
+      "music_name": "萍聚(H)",
+      "singer": "卓依婷,港台女歌星,ZYT,zhuo_yi_ting",
+      "songid": "7595197",
+      "rate": 0
+    },
+    {
+      "singerid": "107121",
+      "language": "国语",
+      "music_no": "7595194",
+      "music_name": "单身情歌(H)",
+      "singer": "林志炫,港台男歌星,LZX,lin_zhi_xuan",
+      "songid": "7595194",
+      "rate": 0
+    },
+    {
+      "singerid": "100106",
+      "language": "粤语",
+      "music_no": "7595195",
+      "music_name": "光辉岁月(H)",
+      "singer": "Beyond,中国组合,BEYOND,Beyond",
+      "songid": "7595195",
+      "rate": 0
+    },
+    {
+      "singerid": "106700",
+      "language": "国语",
+      "music_no": "7595189",
+      "music_name": "男孩",
+      "singer": "梁博,大陆男歌星,LB,liang_bo",
+      "songid": "7595189",
+      "rate": 0
+    },
+    {
+      "singerid": "270319",
+      "language": "国语",
+      "music_no": "7595201",
+      "music_name": "桥边姑娘(H)",
+      "singer": "海伦,大陆男歌星,HL,hai_lun",
+      "songid": "7595201",
+      "rate": 0
+    },
+    {
+      "singerid": "114841",
+      "language": "国语",
+      "music_no": "7595188",
+      "music_name": "成都",
+      "singer": "赵雷,大陆男歌星,ZL,zhao_lei",
+      "songid": "7595188",
+      "rate": 0
+    },
+    {
+      "singerid": "105650",
+      "language": "国语",
+      "music_no": "7595202",
+      "music_name": "老男孩(H)",
+      "singer": "筷子兄弟,中国组合,KZXD,kuai_zi_xiong_di",
+      "songid": "7595202",
+      "rate": 0
+    },
+    {
+      "singerid": "108484",
+      "language": "国语",
+      "music_no": "7456195",
+      "music_name": "盛夏的果实(H)",
+      "singer": "莫文蔚,港台女歌星,MWW,mo_wen_wei",
+      "songid": "7456195",
+      "rate": 0
+    },
+    {
+      "singerid": "110561",
+      "language": "国语",
+      "music_no": "7595181",
+      "music_name": "精忠报国(H)",
+      "singer": "屠洪刚,大陆男歌星,THG,tu_hong_gang",
+      "songid": "7595181",
+      "rate": 0
+    },
+    {
+      "singerid": "106564",
+      "language": "国语",
+      "music_no": "7595184",
+      "music_name": "新贵妃醉酒(H)",
+      "singer": "李玉刚,大陆男歌星,LYG,li_yu_gang",
+      "songid": "7595184",
+      "rate": 0
+    },
+    {
+      "singerid": "107796",
+      "language": "国语",
+      "music_no": "7594512",
+      "music_name": "一壶老酒(H)",
+      "singer": "陆树铭,大陆男歌星,LSM,lu_shu_ming",
+      "songid": "7594512",
+      "rate": 0
+    },
+    {
+      "singerid": "139083",
+      "language": "国语",
+      "music_no": "7594518",
+      "music_name": "点歌的人(H)",
+      "singer": "海来阿木,大陆男歌星,HLAM,hai_lai_a_mu",
+      "songid": "7594518",
+      "rate": 0
+    },
+    {
+      "singerid": "109148",
+      "language": "国语",
+      "music_no": "7594511",
+      "music_name": "十一年(H)",
+      "singer": "邱永传,大陆男歌星,QYC,qiu_yong_chuan",
+      "songid": "7594511",
+      "rate": 0
+    },
+    {
+      "singerid": "107379",
+      "language": "国语",
+      "music_no": "7595200",
+      "music_name": "漂洋过海来看你(H)",
+      "singer": "刘明湘,港台女歌星,LMX,liu_ming_xiang",
+      "songid": "7595200",
+      "rate": 0
+    },
+    {
+      "singerid": "114987",
+      "language": "国语",
+      "music_no": "7595185",
+      "music_name": "下定决心忘记你(H)",
+      "singer": "正云,大陆男歌星,ZY,zheng_yun",
+      "songid": "7595185",
+      "rate": 0
+    },
+    {
+      "singerid": "101765",
+      "language": "粤语",
+      "music_no": "7595196",
+      "music_name": "月半小夜曲(H)",
+      "singer": "陈慧娴,港台女歌星,CHX,chen_hui_xian",
+      "songid": "7595196",
+      "rate": 0
+    },
+    {
+      "singerid": "107210",
+      "language": "国语",
+      "music_no": "7458403",
+      "music_name": "冰雨(H)",
+      "singer": "刘德华,港台男歌星,LDH,liu_de_hua",
+      "songid": "7458403",
+      "rate": 0
+    },
+    {
+      "singerid": "114677",
+      "language": "国语",
+      "music_no": "7457975",
+      "music_name": "趁早(H)",
+      "singer": "张宇,港台男歌星,ZY,zhang_yu",
+      "songid": "7457975",
+      "rate": 0
+    },
+    {
+      "singerid": "114593",
+      "language": "国语",
+      "music_no": "7594509",
+      "music_name": "一千个伤心的理由(H)",
+      "singer": "张学友,港台男歌星,ZXY,zhang_xue_you",
+      "songid": "7594509",
+      "rate": 0
+    },
+    {
+      "singerid": "121019",
+      "language": "国语",
+      "music_no": "7594517",
+      "music_name": "送亲(H)",
+      "singer": "王琪,大陆男歌星,WQ,wang_qi",
+      "songid": "7594517",
+      "rate": 0
+    },
+    {
+      "singerid": "110185,110863",
+      "language": "国语",
+      "music_no": "7594514",
+      "music_name": "缘分一道桥(H)",
+      "singer": "谭维维,大陆女歌星,TWW,tan_wei_wei,王力宏,港台男歌星,WLH,wang_li_hong",
+      "songid": "7594514",
+      "rate": 0
+    },
+    {
+      "singerid": "143730",
+      "language": "国语",
+      "music_no": "7594515",
+      "music_name": "像我这样的人(H)",
+      "singer": "毛不易,大陆男歌星,MBY,mao_bu_yi",
+      "songid": "7594515",
+      "rate": 0
+    },
+    {
+      "singerid": "112767",
+      "language": "国语",
+      "music_no": "7594519",
+      "music_name": "演员(H)",
+      "singer": "薛之谦,大陆男歌星,XZQ,xue_zhi_qian",
+      "songid": "7594519",
+      "rate": 0
+    },
+    {
+      "singerid": "150198",
+      "language": "国语",
+      "music_no": "7594516",
+      "music_name": "我曾(H)",
+      "singer": "隔壁老樊,大陆男歌星,GBLF,ge_bi_lao_fan",
+      "songid": "7594516",
+      "rate": 0
+    },
+    {
+      "singerid": "108909",
+      "language": "国语",
+      "music_no": "7594520",
+      "music_name": "平凡之路(H)",
+      "singer": "朴树,大陆男歌星,PS,pu_shu",
+      "songid": "7594520",
+      "rate": 0
+    },
+    {
+      "singerid": "105650",
+      "language": "国语",
+      "music_no": "7659819",
+      "music_name": "父亲(H)",
+      "singer": "筷子兄弟,中国组合,KZXD,kuai_zi_xiong_di",
+      "songid": "7659819",
+      "rate": 0
+    },
+    {
+      "singerid": "101320",
+      "language": "国语",
+      "music_no": "7657755",
+      "music_name": "红色高跟鞋(H)",
+      "singer": "蔡健雅,港台女歌星,CJY,cai_jian_ya",
+      "songid": "7657755",
+      "rate": 0
+    },
+    {
+      "singerid": "103734",
+      "language": "国语",
+      "music_no": "7663876",
+      "music_name": "童话(H)",
+      "singer": "光良,港台男歌星,GL,guang_liang",
+      "songid": "7663876",
+      "rate": 0
+    },
+    {
+      "singerid": "100106",
+      "language": "粤语",
+      "music_no": "7457635",
+      "music_name": "不再犹豫(H)",
+      "singer": "Beyond,中国组合,BEYOND,Beyond",
+      "songid": "7457635",
+      "rate": 0
+    },
+    {
+      "singerid": "111576",
+      "language": "国语",
+      "music_no": "7519913",
+      "music_name": "女儿情(H)",
+      "singer": "吴静,大陆女歌星,WJ,wu_jing",
+      "songid": "7519913",
+      "rate": 0
+    },
+    {
+      "singerid": "112699",
+      "language": "国语",
+      "music_no": "7657757",
+      "music_name": "蓝莲花(H)",
+      "singer": "许巍,大陆男歌星,XW,xu_wei",
+      "songid": "7657757",
+      "rate": 0
+    },
+    {
+      "singerid": "115281",
+      "language": "国语",
+      "music_no": "7657943",
+      "music_name": "晴天(H)",
+      "singer": "周杰伦,港台男歌星,ZJL,zhou_jie_lun",
+      "songid": "7657943",
+      "rate": 0
+    },
+    {
+      "singerid": "114677",
+      "language": "国语",
+      "music_no": "7659481",
+      "music_name": "雨一直下(H)",
+      "singer": "张宇,港台男歌星,ZY,zhang_yu",
+      "songid": "7659481",
+      "rate": 0
+    },
+    {
+      "singerid": "114727",
+      "language": "国语",
+      "music_no": "7458266",
+      "music_name": "再见(H)",
+      "singer": "张震岳,港台男歌星,ZZY,zhang_zhen_yue",
+      "songid": "7458266",
+      "rate": 0
+    },
+    {
+      "singerid": "103993",
+      "language": "国语",
+      "music_no": "7659859",
+      "music_name": "天路(H)",
+      "singer": "韩红,大陆女歌星,HH,han_hong",
+      "songid": "7659859",
+      "rate": 0
+    },
+    {
+      "singerid": "106927",
+      "language": "国语",
+      "music_no": "7658106",
+      "music_name": "背对背拥抱(H)",
+      "singer": "林俊杰,港台男歌星,LJJ,lin_jun_jie",
+      "songid": "7658106",
+      "rate": 0
+    },
+    {
+      "singerid": "111967",
+      "language": "国语",
+      "music_no": "7458197",
+      "music_name": "王妃(H)",
+      "singer": "萧敬腾,港台男歌星,XJT,xiao_jing_teng",
+      "songid": "7458197",
+      "rate": 0
+    },
+    {
+      "singerid": "107093",
+      "language": "国语",
+      "music_no": "7455671",
+      "music_name": "你是我的眼(H)",
+      "singer": "林宥嘉,港台男歌星,LYJ,lin_you_jia",
+      "songid": "7455671",
+      "rate": 0
+    },
+    {
+      "singerid": "106927",
+      "language": "国语",
+      "music_no": "7657292",
+      "music_name": "江南(H)",
+      "singer": "林俊杰,港台男歌星,LJJ,lin_jun_jie",
+      "songid": "7657292",
+      "rate": 0
+    },
+    {
+      "singerid": "104855",
+      "language": "国语",
+      "music_no": "7456198",
+      "music_name": "没那么简单(H)",
+      "singer": "黄小琥,港台女歌星,HXH,huang_xiao_hu",
+      "songid": "7456198",
+      "rate": 0
+    },
+    {
+      "singerid": "104895",
+      "language": "国语",
+      "music_no": "7659284",
+      "music_name": "那女孩对我说(H)",
+      "singer": "黄义达,港台男歌星,HYD,huang_yi_da",
+      "songid": "7659284",
+      "rate": 0
+    },
+    {
+      "singerid": "109277",
+      "language": "国语",
+      "music_no": "7659129",
+      "music_name": "伤心太平洋(H)",
+      "singer": "任贤齐,港台男歌星,RXQ,ren_xian_qi",
+      "songid": "7659129",
+      "rate": 0
+    },
+    {
+      "singerid": "107093",
+      "language": "国语",
+      "music_no": "7458407",
+      "music_name": "说谎(H)",
+      "singer": "林宥嘉,港台男歌星,LYJ,lin_you_jia",
+      "songid": "7458407",
+      "rate": 0
+    },
+    {
+      "singerid": "102041",
+      "language": "国语",
+      "music_no": "7659736",
+      "music_name": "独家记忆(H)",
+      "singer": "陈小春,港台男歌星,CXC,chen_xiao_chun",
+      "songid": "7659736",
+      "rate": 0
+    },
+    {
+      "singerid": "114677",
+      "language": "国语",
+      "music_no": "7657412",
+      "music_name": "月亮惹的祸(H)",
+      "singer": "张宇,港台男歌星,ZY,zhang_yu",
+      "songid": "7657412",
+      "rate": 0
+    },
+    {
+      "singerid": "106311",
+      "language": "国语",
+      "music_no": "7657861",
+      "music_name": "痴心绝对(H)",
+      "singer": "李圣杰,港台男歌星,LSJ,li_sheng_jie",
+      "songid": "7657861",
+      "rate": 0
+    },
+    {
+      "singerid": "114712",
+      "language": "国语",
+      "music_no": "7659128",
+      "music_name": "偏爱(H)",
+      "singer": "张芸京,港台女歌星,ZYJ,zhang_yun_jing",
+      "songid": "7659128",
+      "rate": 0
+    }
+  ],
+  "top_name": "歌神必唱榜"
+}
