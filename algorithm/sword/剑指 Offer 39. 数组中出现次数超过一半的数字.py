@@ -5,23 +5,11 @@ from typing import List
 
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        # 判空
-        if not nums: return 0
-
-        time = 0
-        for cur in nums:
-            if time == 0:
-                time = 1
-                res = cur
-            elif cur == res:
-                time += 1
-            elif cur != res:
-                time += -1
-        # 判断所求数值是否符合要求:出现次数大于一半
-        count = 0
-        for item in nums:
-            if item == res: count += 1
-        return res if count * 2 >= time else 0
+        votes = 0
+        for num in nums:
+            if votes == 0: x = num
+            votes += 1 if num == x else -1
+        return x
 
 
 if __name__ == '__main__':
