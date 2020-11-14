@@ -10,8 +10,9 @@ class Solution:
             pass
 
         # 建立映射,注意因为是正数，所以分为两部分，arr2中的数为负数，进行自定义排序的时候能够排在前面
-        arr_len = len(arr2)
-        arr_map = {item: index-arr_len for index, item in enumerate(arr2)}
+        arr2_len = len(arr2)
+        arr1_min = min(arr1)
+        arr_map = {item: index-arr2_len-abs(arr1_min)-1 for index, item in enumerate(arr2)}
 
         arr1.sort(key=mycmp)
         return arr1
@@ -19,7 +20,8 @@ class Solution:
 
 
 if __name__ == '__main__':
-    arr1 = [2, 3, 1, 3, 2, 4, 6, 7, 9, 2, 19]
+    arr1 = [2, 3, 1, 3, 2, -44, 6, 7, 9, 2, 19]
+    # arr1 = [2, 3, 1, 3, 2, 4, 6, 7, 9, 2, 19]
     arr2 = [2, 1, 4, 3, 9, 6]
 
     s = Solution()
