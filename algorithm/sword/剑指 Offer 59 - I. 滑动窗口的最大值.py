@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import queue
-from collections import deque
 from typing import List
 
 
