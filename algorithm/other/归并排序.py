@@ -2,29 +2,29 @@
 # -*- coding: utf-8 -*-
 
 def merge(a, b):
-    c = []
-    h = j = 0
-    while j < len(a) and h < len(b):
-        if a[j] < b[h]:
-            c.append(a[j])
-            j += 1
+    res = []
+    pa = pb = 0
+    while pa < len(a) and pb < len(b):
+        if a[pa] < b[pb]:
+            res.append(a[pa])
+            pa += 1
         else:
-            c.append(b[h])
-            h += 1
-    if j == len(a):
-        for i in b[h:]:
-            c.append(i)
+            res.append(b[pb])
+            pb += 1
+    if pa == len(a):
+        for i in b[pb:]:
+            res.append(i)
     else:
-        for i in a[j:]:
-            c.append(i)
+        for i in a[pa:]:
+            res.append(i)
 
-    return c
+    return res
 
 
 def merge_sort(lists):
     if len(lists) <= 1:
         return lists
-    middle = len(lists)//2
+    middle = len(lists) // 2
     left = merge_sort(lists[:middle])
     right = merge_sort(lists[middle:])
     return merge(left, right)
@@ -32,4 +32,4 @@ def merge_sort(lists):
 
 if __name__ == '__main__':
     a = [14, 2, 34, 43, 21, 19]
-    print (merge_sort(a))
+    print(merge_sort(a))

@@ -32,6 +32,3 @@ class Solution:
         return self.isSub(A.left, B.left) and self.isSub(A.right, B.right)
 
 
-if __name__ == '__main__':
-    s = Solution()
-    s.run()

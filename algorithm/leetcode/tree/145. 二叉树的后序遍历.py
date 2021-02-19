@@ -18,6 +18,7 @@ class Solution:
         while stack:
             item = stack.pop()
             result.append(item.val)
+            # 出栈顺序为先右后左
             if item.left: stack.append(item.left)
             if item.right: stack.append(item.right)
-        return result
+        return result[::-1]

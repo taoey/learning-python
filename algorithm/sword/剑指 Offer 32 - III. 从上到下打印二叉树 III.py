@@ -3,6 +3,7 @@
 
 # Definition for a binary tree node.
 from typing import List
+import queue
 
 
 class TreeNode:
@@ -11,11 +12,11 @@ class TreeNode:
         self.left = None
         self.right = None
 
-import queue
+
 class Solution:
     def levelOrder(self, root: TreeNode) -> List[List[int]]:
         """之字形遍历"""
-        if root is None : return []
+        if root is None: return []
         result = []
         q = queue.Queue()
         q.put(root)
@@ -27,19 +28,20 @@ class Solution:
             for _ in range(count):
                 item = q.get()
                 tmp.append(item.val)
-                if item.left is not None :
+                if item.left is not None:
                     q.put(item.left)
-                    new_count+=1
-                if item.right is not None :
+                    new_count += 1
+                if item.right is not None:
                     q.put(item.right)
-                    new_count+=1
+                    new_count += 1
             count = new_count
-            if level % 2 !=0:
+            if level % 2 != 0:
                 result.append(tmp)
             else:
                 result.append(tmp[::-1])
-            level+=1
+            level += 1
         return result
+
 
 if __name__ == '__main__':
     A = TreeNode(1)

@@ -22,11 +22,8 @@ class Solution:
             item = stack.pop()
             result.append(item.val)
             # 入栈先右后左，保证出栈时的顺序为先左后右
-            if item.right:
-                stack.append(item.right)
-            if item.left:
-                stack.append(item.left)
-
+            if item.right: stack.append(item.right)
+            if item.left: stack.append(item.left)
         return result
 
 if __name__ == '__main__':

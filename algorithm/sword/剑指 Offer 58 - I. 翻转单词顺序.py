@@ -11,7 +11,7 @@ class Solution:
             res.append(s[left + 1:right + 1])
             while s[left] == " ": left -= 1
             right = left
-        return res
+        return " ".join(res)
 
 
 if __name__ == '__main__':

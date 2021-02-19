@@ -5,7 +5,7 @@ from typing import List
 
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
-        if strs is None or  len(strs) == 0 :return ""
+        if strs is None or len(strs) == 0: return ""
         end_flag = False
         head = strs[0]
         index = 0
@@ -20,10 +20,8 @@ class Solution:
         return head
 
 
-
-
 if __name__ == '__main__':
-    strs = ["flower","flow","flight"]
+    strs = ["flower", "flow", "flight"]
     s = Solution()
     prefix = s.longestCommonPrefix(strs)
     print(prefix)

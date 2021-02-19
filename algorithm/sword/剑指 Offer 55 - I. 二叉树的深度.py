@@ -2,8 +2,12 @@
 # -*- coding: utf-8 -*-
 
 # Definition for a binary tree node.
-import queue
 
+"""
+实际上就是二叉树的层序遍历
+"""
+
+import queue
 
 class TreeNode:
     def __init__(self, x):
