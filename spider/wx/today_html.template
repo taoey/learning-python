@@ -1,0 +1,20 @@
+<html>
+    <head>
+    </head>
+    <body>
+        %for item in muti:
+        ${item["title"]}<br>
+        <img  src="${item["cover"]}"/>
+        %for pic in item["pic_url"]:
+        <div style="text-align: center; width: 500px;">
+            <img alt="" src="${pic}" style="margin: 0 auto;" />
+        </div>
+        <br>
+        %endfor
+        图妹趣评: ${item["digest"]} <img style="width: 80px; height: 80px;" src="${item["emoji"]}">
+        <br><br>
+        %endfor
+    </body>
+</html>
+
+

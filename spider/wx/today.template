@@ -1,0 +1,7 @@
+%for item in muti:
+-- ${item["title"]}
+%for pic in item["pic_url"]["pics"]:
+![](${pic})
+%endfor
+图哥趣评: ${item["digest"]}
+%endfor
