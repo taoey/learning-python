@@ -16,7 +16,7 @@ def log(func):
 
 @log
 def mytest(p, aa):
-    print(mytest.__name__ + " param: " + p)
+    print(mytest.__name__ + " param11: " + p)
 
 
 if __name__ == '__main__':

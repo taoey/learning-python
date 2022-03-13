@@ -13,7 +13,7 @@ from PIL import Image
 from selenium import webdriver
 
 LINUX_WEBDRIVER_PATH = r"/usr/local/src/chromedriver"
-MAC_WEBDRIVER_PATH = r"/Users/tao/soft/chromedriver"
+MAC_WEBDRIVER_PATH = r"/Users/tao/soft/chromedriver_90"
 
 
 def common_req(url):
