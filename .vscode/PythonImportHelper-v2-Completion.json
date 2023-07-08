@@ -1,0 +1,2457 @@
+[
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "queue",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "queue",
+        "description": "queue",
+        "detail": "queue",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "functools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "functools",
+        "description": "functools",
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "choice",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "descriptor",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "message",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "reflection",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "symbol_database",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "grpc",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "grpc",
+        "description": "grpc",
+        "detail": "grpc",
+        "documentation": {}
+    },
+    {
+        "label": "my_grpc.rpc_package.user_info_pb2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "my_grpc.rpc_package.user_info_pb2",
+        "description": "my_grpc.rpc_package.user_info_pb2",
+        "detail": "my_grpc.rpc_package.user_info_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "HelloRequest",
+        "importPath": "my_grpc.rpc_package.user_info_pb2",
+        "description": "my_grpc.rpc_package.user_info_pb2",
+        "isExtraImport": true,
+        "detail": "my_grpc.rpc_package.user_info_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "HelloReply",
+        "importPath": "my_grpc.rpc_package.user_info_pb2",
+        "description": "my_grpc.rpc_package.user_info_pb2",
+        "isExtraImport": true,
+        "detail": "my_grpc.rpc_package.user_info_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "HelloReply",
+        "importPath": "my_grpc.rpc_package.user_info_pb2",
+        "description": "my_grpc.rpc_package.user_info_pb2",
+        "isExtraImport": true,
+        "detail": "my_grpc.rpc_package.user_info_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "HelloWorldServiceStub",
+        "importPath": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "description": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "isExtraImport": true,
+        "detail": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_HelloWorldServiceServicer_to_server",
+        "importPath": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "description": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "isExtraImport": true,
+        "detail": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "HelloWorldServiceServicer",
+        "importPath": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "description": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "isExtraImport": true,
+        "detail": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "futures",
+        "importPath": "concurrent",
+        "description": "concurrent",
+        "isExtraImport": true,
+        "detail": "concurrent",
+        "documentation": {}
+    },
+    {
+        "label": "codecs",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "codecs",
+        "description": "codecs",
+        "detail": "codecs",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "urllib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib",
+        "description": "urllib",
+        "detail": "urllib",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.request",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.request",
+        "description": "urllib.request",
+        "detail": "urllib.request",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Auth",
+        "importPath": "qiniu",
+        "description": "qiniu",
+        "isExtraImport": true,
+        "detail": "qiniu",
+        "documentation": {}
+    },
+    {
+        "label": "put_file",
+        "importPath": "qiniu",
+        "description": "qiniu",
+        "isExtraImport": true,
+        "detail": "qiniu",
+        "documentation": {}
+    },
+    {
+        "label": "Auth",
+        "importPath": "qiniu",
+        "description": "qiniu",
+        "isExtraImport": true,
+        "detail": "qiniu",
+        "documentation": {}
+    },
+    {
+        "label": "put_file",
+        "importPath": "qiniu",
+        "description": "qiniu",
+        "isExtraImport": true,
+        "detail": "qiniu",
+        "documentation": {}
+    },
+    {
+        "label": "PersistentFop",
+        "importPath": "qiniu",
+        "description": "qiniu",
+        "isExtraImport": true,
+        "detail": "qiniu",
+        "documentation": {}
+    },
+    {
+        "label": "build_op",
+        "importPath": "qiniu",
+        "description": "qiniu",
+        "isExtraImport": true,
+        "detail": "qiniu",
+        "documentation": {}
+    },
+    {
+        "label": "op_save",
+        "importPath": "qiniu",
+        "description": "qiniu",
+        "isExtraImport": true,
+        "detail": "qiniu",
+        "documentation": {}
+    },
+    {
+        "label": "urlsafe_base64_encode",
+        "importPath": "qiniu",
+        "description": "qiniu",
+        "isExtraImport": true,
+        "detail": "qiniu",
+        "documentation": {}
+    },
+    {
+        "label": "Auth",
+        "importPath": "qiniu",
+        "description": "qiniu",
+        "isExtraImport": true,
+        "detail": "qiniu",
+        "documentation": {}
+    },
+    {
+        "label": "put_file",
+        "importPath": "qiniu",
+        "description": "qiniu",
+        "isExtraImport": true,
+        "detail": "qiniu",
+        "documentation": {}
+    },
+    {
+        "label": "PersistentFop",
+        "importPath": "qiniu",
+        "description": "qiniu",
+        "isExtraImport": true,
+        "detail": "qiniu",
+        "documentation": {}
+    },
+    {
+        "label": "build_op",
+        "importPath": "qiniu",
+        "description": "qiniu",
+        "isExtraImport": true,
+        "detail": "qiniu",
+        "documentation": {}
+    },
+    {
+        "label": "op_save",
+        "importPath": "qiniu",
+        "description": "qiniu",
+        "isExtraImport": true,
+        "detail": "qiniu",
+        "documentation": {}
+    },
+    {
+        "label": "urlsafe_base64_encode",
+        "importPath": "qiniu",
+        "description": "qiniu",
+        "isExtraImport": true,
+        "detail": "qiniu",
+        "documentation": {}
+    },
+    {
+        "label": "Auth",
+        "importPath": "qiniu",
+        "description": "qiniu",
+        "isExtraImport": true,
+        "detail": "qiniu",
+        "documentation": {}
+    },
+    {
+        "label": "put_file",
+        "importPath": "qiniu",
+        "description": "qiniu",
+        "isExtraImport": true,
+        "detail": "qiniu",
+        "documentation": {}
+    },
+    {
+        "label": "etag",
+        "importPath": "qiniu",
+        "description": "qiniu",
+        "isExtraImport": true,
+        "detail": "qiniu",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "util",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "util",
+        "description": "util",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.parse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "unquote",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "aiohttp",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "aiohttp",
+        "description": "aiohttp",
+        "detail": "aiohttp",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageFont",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageDraw",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageSequence",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "urllib,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.",
+        "description": "urllib.",
+        "detail": "urllib.",
+        "documentation": {}
+    },
+    {
+        "label": "pytesseract",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytesseract",
+        "description": "pytesseract",
+        "detail": "pytesseract",
+        "documentation": {}
+    },
+    {
+        "label": "PhantomJS",
+        "importPath": "selenium.webdriver",
+        "description": "selenium.webdriver",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver",
+        "documentation": {}
+    },
+    {
+        "label": "etree",
+        "importPath": "lxml",
+        "description": "lxml",
+        "isExtraImport": true,
+        "detail": "lxml",
+        "documentation": {}
+    },
+    {
+        "label": "etree",
+        "importPath": "lxml",
+        "description": "lxml",
+        "isExtraImport": true,
+        "detail": "lxml",
+        "documentation": {}
+    },
+    {
+        "label": "etree",
+        "importPath": "lxml",
+        "description": "lxml",
+        "isExtraImport": true,
+        "detail": "lxml",
+        "documentation": {}
+    },
+    {
+        "label": "etree",
+        "importPath": "lxml",
+        "description": "lxml",
+        "isExtraImport": true,
+        "detail": "lxml",
+        "documentation": {}
+    },
+    {
+        "label": "etree",
+        "importPath": "lxml",
+        "description": "lxml",
+        "isExtraImport": true,
+        "detail": "lxml",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "time,random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time.random",
+        "description": "time.random",
+        "detail": "time.random",
+        "documentation": {}
+    },
+    {
+        "label": "pymysql",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pymysql",
+        "description": "pymysql",
+        "detail": "pymysql",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEText",
+        "importPath": "email.mime.text",
+        "description": "email.mime.text",
+        "isExtraImport": true,
+        "detail": "email.mime.text",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEText",
+        "importPath": "email.mime.text",
+        "description": "email.mime.text",
+        "isExtraImport": true,
+        "detail": "email.mime.text",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEText",
+        "importPath": "email.mime.text",
+        "description": "email.mime.text",
+        "isExtraImport": true,
+        "detail": "email.mime.text",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEMultipart",
+        "importPath": "email.mime.multipart",
+        "description": "email.mime.multipart",
+        "isExtraImport": true,
+        "detail": "email.mime.multipart",
+        "documentation": {}
+    },
+    {
+        "label": "os,time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.time",
+        "description": "os.time",
+        "detail": "os.time",
+        "documentation": {}
+    },
+    {
+        "label": "Process",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "Manager",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "Template",
+        "importPath": "mako.template",
+        "description": "mako.template",
+        "isExtraImport": true,
+        "detail": "mako.template",
+        "documentation": {}
+    },
+    {
+        "label": "spider.wx.mysql",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "get_muti_unupload",
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "isExtraImport": true,
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "is_exist_by_content_url",
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "isExtraImport": true,
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "isExtraImport": true,
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "get_item_by_id",
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "isExtraImport": true,
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "isExtraImport": true,
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "class_mapper",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DATETIME",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "INTEGER",
+        "importPath": "sqlalchemy.dialects.mysql",
+        "description": "sqlalchemy.dialects.mysql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "VARCHAR",
+        "importPath": "sqlalchemy.dialects.mysql",
+        "description": "sqlalchemy.dialects.mysql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "pymysql",
+        "importPath": "sqlalchemy.dialects.mysql",
+        "description": "sqlalchemy.dialects.mysql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "get_data_filepaths",
+        "importPath": "spider.wx.save_data",
+        "description": "spider.wx.save_data",
+        "isExtraImport": true,
+        "detail": "spider.wx.save_data",
+        "documentation": {}
+    },
+    {
+        "label": "get_day_list",
+        "importPath": "spider.wx.save_data",
+        "description": "spider.wx.save_data",
+        "isExtraImport": true,
+        "detail": "spider.wx.save_data",
+        "documentation": {}
+    },
+    {
+        "label": "get_article_list",
+        "importPath": "spider.wx.save_data",
+        "description": "spider.wx.save_data",
+        "isExtraImport": true,
+        "detail": "spider.wx.save_data",
+        "documentation": {}
+    },
+    {
+        "label": "get_browser",
+        "importPath": "spider.wx.update_data",
+        "description": "spider.wx.update_data",
+        "isExtraImport": true,
+        "detail": "spider.wx.update_data",
+        "documentation": {}
+    },
+    {
+        "label": "Bar",
+        "importPath": "pyecharts",
+        "description": "pyecharts",
+        "isExtraImport": true,
+        "detail": "pyecharts",
+        "documentation": {}
+    },
+    {
+        "label": "xlwt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "xlwt",
+        "description": "xlwt",
+        "detail": "xlwt",
+        "documentation": {}
+    },
+    {
+        "label": "redis",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "redis",
+        "description": "redis",
+        "detail": "redis",
+        "documentation": {}
+    },
+    {
+        "label": "qiniu.config",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "qiniu.config",
+        "description": "qiniu.config",
+        "detail": "qiniu.config",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Fernet",
+        "importPath": "cryptography.fernet",
+        "description": "cryptography.fernet",
+        "isExtraImport": true,
+        "detail": "cryptography.fernet",
+        "documentation": {}
+    },
+    {
+        "label": "start_loop",
+        "kind": 2,
+        "importPath": "base.asyncio.creater",
+        "description": "base.asyncio.creater",
+        "peekOfCode": "def start_loop(loop):\n    asyncio.set_event_loop(loop)\n    loop.run_forever()\nasync def do_some_work(x):\n    print('Waiting {}'.format(x))\n    await asyncio.sleep(x)\n    print('Done after {}s'.format(x))\ndef more_work(x):\n    print('More work {}'.format(x))\n    time.sleep(x)",
+        "detail": "base.asyncio.creater",
+        "documentation": {}
+    },
+    {
+        "label": "more_work",
+        "kind": 2,
+        "importPath": "base.asyncio.creater",
+        "description": "base.asyncio.creater",
+        "peekOfCode": "def more_work(x):\n    print('More work {}'.format(x))\n    time.sleep(x)\n    print('Finished more work {}'.format(x))\nif __name__ == '__main__':\n    start = now()\n    new_loop = asyncio.new_event_loop()\n    t = Thread(target=start_loop, args=(new_loop,))\n    t.start()\n    print('TIME: {}'.format(time.time() - start))",
+        "detail": "base.asyncio.creater",
+        "documentation": {}
+    },
+    {
+        "label": "now",
+        "kind": 5,
+        "importPath": "base.asyncio.creater",
+        "description": "base.asyncio.creater",
+        "peekOfCode": "now = lambda: time.time()\ndef start_loop(loop):\n    asyncio.set_event_loop(loop)\n    loop.run_forever()\nasync def do_some_work(x):\n    print('Waiting {}'.format(x))\n    await asyncio.sleep(x)\n    print('Done after {}s'.format(x))\ndef more_work(x):\n    print('More work {}'.format(x))",
+        "detail": "base.asyncio.creater",
+        "documentation": {}
+    },
+    {
+        "label": "slave_thread",
+        "kind": 2,
+        "importPath": "base.asyncio.demo2",
+        "description": "base.asyncio.demo2",
+        "peekOfCode": "def slave_thread(loop):\n    # 注意：这不是 coroutine 函数\n    import time\n    time.sleep(2)\n    f = asyncio.run_coroutine_threadsafe(add(1, 2), loop)\n    print(\"{} slave: 1+2={}\".format(datetime.now(), f.result()))\nasync def main(loop):\n    await asyncio.gather(\n        master_thread(loop),\n        # 线程池内执行",
+        "detail": "base.asyncio.demo2",
+        "documentation": {}
+    },
+    {
+        "label": "file",
+        "kind": 2,
+        "importPath": "base.io.io-file-test1",
+        "description": "base.io.io-file-test1",
+        "peekOfCode": "def file(path, old, new):\n    with open(path, \"r+\", encoding='utf-8') as f:  # 不用w，w会清空数据\n        s = f.read()  # 读出\n        f.seek(0, 0)  # 指针移到头\n        f.flush()\n        f.write(s.replace(old, new))\n        f.close()\nif __name__ == '__main__':\n    file(\"data.txt\", \"Hello\", \"你好\")\n    file(\"data.txt\", \"World\", \"世界\")",
+        "detail": "base.io.io-file-test1",
+        "documentation": {}
+    },
+    {
+        "label": "aa",
+        "kind": 2,
+        "importPath": "base.函数.demo2",
+        "description": "base.函数.demo2",
+        "peekOfCode": "def aa(a,b=\"123\"):\n    print(a,b)\nif __name__ == '__main__':\n    aa(\"12\")",
+        "detail": "base.函数.demo2",
+        "documentation": {}
+    },
+    {
+        "label": "aa",
+        "kind": 2,
+        "importPath": "base.函数.fun_test",
+        "description": "base.函数.fun_test",
+        "peekOfCode": "def aa(num):\n    print('aa', num)\ndef bb(num):\n    print('bb', num)\ndef cc(num):\n    print('cc', num)\nfun_dict = {\n    'AA': aa,\n    'bb': bb,\n    'cc': cc",
+        "detail": "base.函数.fun_test",
+        "documentation": {}
+    },
+    {
+        "label": "bb",
+        "kind": 2,
+        "importPath": "base.函数.fun_test",
+        "description": "base.函数.fun_test",
+        "peekOfCode": "def bb(num):\n    print('bb', num)\ndef cc(num):\n    print('cc', num)\nfun_dict = {\n    'AA': aa,\n    'bb': bb,\n    'cc': cc\n}\nif __name__ == '__main__':",
+        "detail": "base.函数.fun_test",
+        "documentation": {}
+    },
+    {
+        "label": "cc",
+        "kind": 2,
+        "importPath": "base.函数.fun_test",
+        "description": "base.函数.fun_test",
+        "peekOfCode": "def cc(num):\n    print('cc', num)\nfun_dict = {\n    'AA': aa,\n    'bb': bb,\n    'cc': cc\n}\nif __name__ == '__main__':\n    fun_name = \"aa\"\n    fun_name = fun_name.upper()",
+        "detail": "base.函数.fun_test",
+        "documentation": {}
+    },
+    {
+        "label": "fun_dict",
+        "kind": 5,
+        "importPath": "base.函数.fun_test",
+        "description": "base.函数.fun_test",
+        "peekOfCode": "fun_dict = {\n    'AA': aa,\n    'bb': bb,\n    'cc': cc\n}\nif __name__ == '__main__':\n    fun_name = \"aa\"\n    fun_name = fun_name.upper()\n    print(fun_name)\n    if fun_name in fun_dict:",
+        "detail": "base.函数.fun_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_01",
+        "kind": 2,
+        "importPath": "base.时间.time_test",
+        "description": "base.时间.time_test",
+        "peekOfCode": "def test_01():\n    mytime = datetime.datetime.now().strftime('%Y-%m-%d')\n    start_time = mytime + \" 00:00:00\"\n    end_time = mytime + \" 23:59:59\"\n    print(\"tao\", mytime, start_time, end_time)\n    table = \"vip_order\"\n    sql = 'select distinct(ktv_id) from {} where state in (2, 8) and finish_time>=\"{}\" and  finish_time<=\"{}\"'.format(\n        table, start_time, end_time)\n    print(sql)\ndef test_02():",
+        "detail": "base.时间.time_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_02",
+        "kind": 2,
+        "importPath": "base.时间.time_test",
+        "description": "base.时间.time_test",
+        "peekOfCode": "def test_02():\n    str_p = '2019-01-30'\n    dateTime_p = datetime.datetime.strptime(str_p, '%Y-%m-%d')\n    print(dateTime_p)  # 2019-01-30 15:29:08\ndef test_03():\n    str_p = '2019-01-30'\n    today = datetime.datetime.strptime(str_p, '%Y-%m-%d')\n    tomorow = today + datetime.timedelta(days=1)\n    tomorow_p = datetime.datetime.strftime(tomorow, '%Y-%m-%d')\n    print(today, tomorow, tomorow_p, type(tomorow),",
+        "detail": "base.时间.time_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_03",
+        "kind": 2,
+        "importPath": "base.时间.time_test",
+        "description": "base.时间.time_test",
+        "peekOfCode": "def test_03():\n    str_p = '2019-01-30'\n    today = datetime.datetime.strptime(str_p, '%Y-%m-%d')\n    tomorow = today + datetime.timedelta(days=1)\n    tomorow_p = datetime.datetime.strftime(tomorow, '%Y-%m-%d')\n    print(today, tomorow, tomorow_p, type(tomorow),\n          type(tomorow_p), max(today, tomorow))\n    if tomorow > today:\n        print(\"yess\")\n    next = datetime.datetime.strptime(\"2019-01-31\", '%Y-%m-%d')",
+        "detail": "base.时间.time_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_04",
+        "kind": 2,
+        "importPath": "base.时间.time_test",
+        "description": "base.时间.time_test",
+        "peekOfCode": "def test_04():\n    \"\"\"字符串转为时间戳,然后判断和当前时间的时间差（秒）\"\"\"\n    str_p = '2020-12-04 15:24:28'\n    tp = datetime.datetime.strptime(str_p, '%Y-%m-%d %H:%M:%S').timetuple()\n    ttl = int(time.time()) - int(time.mktime(tp))\n    print(ttl)\ndef test_05():\n    mytime = datetime.datetime.now().strftime('%Y%m%d')\n    print(mytime)\ndef test_06():",
+        "detail": "base.时间.time_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_05",
+        "kind": 2,
+        "importPath": "base.时间.time_test",
+        "description": "base.时间.time_test",
+        "peekOfCode": "def test_05():\n    mytime = datetime.datetime.now().strftime('%Y%m%d')\n    print(mytime)\ndef test_06():\n    str_p = '2019-01-30'\n    pre = datetime.datetime.strptime(str_p, '%Y-%m-%d')\n    now = datetime.datetime.now()\n    print(pre > now)",
+        "detail": "base.时间.time_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_06",
+        "kind": 2,
+        "importPath": "base.时间.time_test",
+        "description": "base.时间.time_test",
+        "peekOfCode": "def test_06():\n    str_p = '2019-01-30'\n    pre = datetime.datetime.strptime(str_p, '%Y-%m-%d')\n    now = datetime.datetime.now()\n    print(pre > now)",
+        "detail": "base.时间.time_test",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 2,
+        "importPath": "base.装饰器.装饰器",
+        "description": "base.装饰器.装饰器",
+        "peekOfCode": "def log(func):\n    @functools.wraps(func)\n    def wrapper(*args, **kwargs):\n        print('call %s()' % func.__name__)\n        print('args = {}'.format(*args))\n        print(kwargs)\n        return func(*args, kwargs)\n    return wrapper\n@log\ndef mytest(p, aa):",
+        "detail": "base.装饰器.装饰器",
+        "documentation": {}
+    },
+    {
+        "label": "mytest",
+        "kind": 2,
+        "importPath": "base.装饰器.装饰器",
+        "description": "base.装饰器.装饰器",
+        "peekOfCode": "def mytest(p, aa):\n    print(mytest.__name__ + \" param11: \" + p)\nif __name__ == '__main__':\n    mytest(\"I'm a param\", aa=10)",
+        "detail": "base.装饰器.装饰器",
+        "documentation": {}
+    },
+    {
+        "label": "print_msg",
+        "kind": 2,
+        "importPath": "base.装饰器.闭包",
+        "description": "base.装饰器.闭包",
+        "peekOfCode": "def print_msg():\n    msg = \"I'm closure\"\n    # printer是嵌套函数\n    def printer():\n        print(msg)\n    return printer\nif __name__ == '__main__':\n    # 这里获得的就是一个闭包\n    closure = print_msg()\n    # 输出 I'm closure",
+        "detail": "base.装饰器.闭包",
+        "documentation": {}
+    },
+    {
+        "label": "_sym_db",
+        "kind": 5,
+        "importPath": "my_grpc.rpc_package.user_info_pb2",
+        "description": "my_grpc.rpc_package.user_info_pb2",
+        "peekOfCode": "_sym_db = _symbol_database.Default()\nDESCRIPTOR = _descriptor.FileDescriptor(\n  name='user_info.proto',\n  package='rpc_package',\n  syntax='proto3',\n  serialized_options=None,\n  create_key=_descriptor._internal_create_key,\n  serialized_pb=b'\\n\\x0fuser_info.proto\\x12\\x0brpc_package\\\"\\x1c\\n\\x0cHelloRequest\\x12\\x0c\\n\\x04name\\x18\\x01 \\x01(\\t\\\"\\x1d\\n\\nHelloReply\\x12\\x0f\\n\\x07message\\x18\\x01 \\x01(\\t2U\\n\\x11HelloWorldService\\x12@\\n\\x08SayHello\\x12\\x19.rpc_package.HelloRequest\\x1a\\x17.rpc_package.HelloReply\\\"\\x00\\x62\\x06proto3'\n)\n_HELLOREQUEST = _descriptor.Descriptor(",
+        "detail": "my_grpc.rpc_package.user_info_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "DESCRIPTOR",
+        "kind": 5,
+        "importPath": "my_grpc.rpc_package.user_info_pb2",
+        "description": "my_grpc.rpc_package.user_info_pb2",
+        "peekOfCode": "DESCRIPTOR = _descriptor.FileDescriptor(\n  name='user_info.proto',\n  package='rpc_package',\n  syntax='proto3',\n  serialized_options=None,\n  create_key=_descriptor._internal_create_key,\n  serialized_pb=b'\\n\\x0fuser_info.proto\\x12\\x0brpc_package\\\"\\x1c\\n\\x0cHelloRequest\\x12\\x0c\\n\\x04name\\x18\\x01 \\x01(\\t\\\"\\x1d\\n\\nHelloReply\\x12\\x0f\\n\\x07message\\x18\\x01 \\x01(\\t2U\\n\\x11HelloWorldService\\x12@\\n\\x08SayHello\\x12\\x19.rpc_package.HelloRequest\\x1a\\x17.rpc_package.HelloReply\\\"\\x00\\x62\\x06proto3'\n)\n_HELLOREQUEST = _descriptor.Descriptor(\n  name='HelloRequest',",
+        "detail": "my_grpc.rpc_package.user_info_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "_HELLOREQUEST",
+        "kind": 5,
+        "importPath": "my_grpc.rpc_package.user_info_pb2",
+        "description": "my_grpc.rpc_package.user_info_pb2",
+        "peekOfCode": "_HELLOREQUEST = _descriptor.Descriptor(\n  name='HelloRequest',\n  full_name='rpc_package.HelloRequest',\n  filename=None,\n  file=DESCRIPTOR,\n  containing_type=None,\n  create_key=_descriptor._internal_create_key,\n  fields=[\n    _descriptor.FieldDescriptor(\n      name='name', full_name='rpc_package.HelloRequest.name', index=0,",
+        "detail": "my_grpc.rpc_package.user_info_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "_HELLOREPLY",
+        "kind": 5,
+        "importPath": "my_grpc.rpc_package.user_info_pb2",
+        "description": "my_grpc.rpc_package.user_info_pb2",
+        "peekOfCode": "_HELLOREPLY = _descriptor.Descriptor(\n  name='HelloReply',\n  full_name='rpc_package.HelloReply',\n  filename=None,\n  file=DESCRIPTOR,\n  containing_type=None,\n  create_key=_descriptor._internal_create_key,\n  fields=[\n    _descriptor.FieldDescriptor(\n      name='message', full_name='rpc_package.HelloReply.message', index=0,",
+        "detail": "my_grpc.rpc_package.user_info_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "DESCRIPTOR.message_types_by_name['HelloRequest']",
+        "kind": 5,
+        "importPath": "my_grpc.rpc_package.user_info_pb2",
+        "description": "my_grpc.rpc_package.user_info_pb2",
+        "peekOfCode": "DESCRIPTOR.message_types_by_name['HelloRequest'] = _HELLOREQUEST\nDESCRIPTOR.message_types_by_name['HelloReply'] = _HELLOREPLY\n_sym_db.RegisterFileDescriptor(DESCRIPTOR)\nHelloRequest = _reflection.GeneratedProtocolMessageType('HelloRequest', (_message.Message,), {\n  'DESCRIPTOR' : _HELLOREQUEST,\n  '__module__' : 'user_info_pb2'\n  # @@protoc_insertion_point(class_scope:rpc_package.HelloRequest)\n  })\n_sym_db.RegisterMessage(HelloRequest)\nHelloReply = _reflection.GeneratedProtocolMessageType('HelloReply', (_message.Message,), {",
+        "detail": "my_grpc.rpc_package.user_info_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "DESCRIPTOR.message_types_by_name['HelloReply']",
+        "kind": 5,
+        "importPath": "my_grpc.rpc_package.user_info_pb2",
+        "description": "my_grpc.rpc_package.user_info_pb2",
+        "peekOfCode": "DESCRIPTOR.message_types_by_name['HelloReply'] = _HELLOREPLY\n_sym_db.RegisterFileDescriptor(DESCRIPTOR)\nHelloRequest = _reflection.GeneratedProtocolMessageType('HelloRequest', (_message.Message,), {\n  'DESCRIPTOR' : _HELLOREQUEST,\n  '__module__' : 'user_info_pb2'\n  # @@protoc_insertion_point(class_scope:rpc_package.HelloRequest)\n  })\n_sym_db.RegisterMessage(HelloRequest)\nHelloReply = _reflection.GeneratedProtocolMessageType('HelloReply', (_message.Message,), {\n  'DESCRIPTOR' : _HELLOREPLY,",
+        "detail": "my_grpc.rpc_package.user_info_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "HelloRequest",
+        "kind": 5,
+        "importPath": "my_grpc.rpc_package.user_info_pb2",
+        "description": "my_grpc.rpc_package.user_info_pb2",
+        "peekOfCode": "HelloRequest = _reflection.GeneratedProtocolMessageType('HelloRequest', (_message.Message,), {\n  'DESCRIPTOR' : _HELLOREQUEST,\n  '__module__' : 'user_info_pb2'\n  # @@protoc_insertion_point(class_scope:rpc_package.HelloRequest)\n  })\n_sym_db.RegisterMessage(HelloRequest)\nHelloReply = _reflection.GeneratedProtocolMessageType('HelloReply', (_message.Message,), {\n  'DESCRIPTOR' : _HELLOREPLY,\n  '__module__' : 'user_info_pb2'\n  # @@protoc_insertion_point(class_scope:rpc_package.HelloReply)",
+        "detail": "my_grpc.rpc_package.user_info_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "HelloReply",
+        "kind": 5,
+        "importPath": "my_grpc.rpc_package.user_info_pb2",
+        "description": "my_grpc.rpc_package.user_info_pb2",
+        "peekOfCode": "HelloReply = _reflection.GeneratedProtocolMessageType('HelloReply', (_message.Message,), {\n  'DESCRIPTOR' : _HELLOREPLY,\n  '__module__' : 'user_info_pb2'\n  # @@protoc_insertion_point(class_scope:rpc_package.HelloReply)\n  })\n_sym_db.RegisterMessage(HelloReply)\n_HELLOWORLDSERVICE = _descriptor.ServiceDescriptor(\n  name='HelloWorldService',\n  full_name='rpc_package.HelloWorldService',\n  file=DESCRIPTOR,",
+        "detail": "my_grpc.rpc_package.user_info_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "_HELLOWORLDSERVICE",
+        "kind": 5,
+        "importPath": "my_grpc.rpc_package.user_info_pb2",
+        "description": "my_grpc.rpc_package.user_info_pb2",
+        "peekOfCode": "_HELLOWORLDSERVICE = _descriptor.ServiceDescriptor(\n  name='HelloWorldService',\n  full_name='rpc_package.HelloWorldService',\n  file=DESCRIPTOR,\n  index=0,\n  serialized_options=None,\n  create_key=_descriptor._internal_create_key,\n  serialized_start=93,\n  serialized_end=178,\n  methods=[",
+        "detail": "my_grpc.rpc_package.user_info_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "DESCRIPTOR.services_by_name['HelloWorldService']",
+        "kind": 5,
+        "importPath": "my_grpc.rpc_package.user_info_pb2",
+        "description": "my_grpc.rpc_package.user_info_pb2",
+        "peekOfCode": "DESCRIPTOR.services_by_name['HelloWorldService'] = _HELLOWORLDSERVICE\n# @@protoc_insertion_point(module_scope)",
+        "detail": "my_grpc.rpc_package.user_info_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "HelloWorldServiceStub",
+        "kind": 6,
+        "importPath": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "description": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "peekOfCode": "class HelloWorldServiceStub(object):\n    \"\"\"define a service\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.SayHello = channel.unary_unary(\n                '/rpc_package.HelloWorldService/SayHello',",
+        "detail": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "HelloWorldServiceServicer",
+        "kind": 6,
+        "importPath": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "description": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "peekOfCode": "class HelloWorldServiceServicer(object):\n    \"\"\"define a service\n    \"\"\"\n    def SayHello(self, request, context):\n        \"\"\"define the interface and data type\n        \"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\ndef add_HelloWorldServiceServicer_to_server(servicer, server):",
+        "detail": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "HelloWorldService",
+        "kind": 6,
+        "importPath": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "description": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "peekOfCode": "class HelloWorldService(object):\n    \"\"\"define a service\n    \"\"\"\n    @staticmethod\n    def SayHello(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_HelloWorldServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "description": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "peekOfCode": "def add_HelloWorldServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'SayHello': grpc.unary_unary_rpc_method_handler(\n                    servicer.SayHello,\n                    request_deserializer=user__info__pb2.HelloRequest.FromString,\n                    response_serializer=user__info__pb2.HelloReply.SerializeToString,\n            ),\n    }\n    generic_handler = grpc.method_handlers_generic_handler(\n            'rpc_package.HelloWorldService', rpc_method_handlers)",
+        "detail": "my_grpc.rpc_package.user_info_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "my_grpc.hello_client",
+        "description": "my_grpc.hello_client",
+        "peekOfCode": "def run():\n    # 使用with语法保证channel自动close\n    grpc.channel\n    with grpc.insecure_channel('localhost:50000') as channel:\n        # 客户端通过stub来实现rpc通信\n        stub = HelloWorldServiceStub(channel)\n        # 客户端必须使用定义好的类型，这里是HelloRequest类型\n        response = stub.SayHello(HelloRequest(name='eric'))\n    print (\"hello client received: \" + response.message)\nif __name__ == \"__main__\":",
+        "detail": "my_grpc.hello_client",
+        "documentation": {}
+    },
+    {
+        "label": "Hello",
+        "kind": 6,
+        "importPath": "my_grpc.hello_server",
+        "description": "my_grpc.hello_server",
+        "peekOfCode": "class Hello(HelloWorldServiceServicer):\n    # 这里实现我们定义的接口\n    def SayHello(self, request, context):\n        return HelloReply(message='Hello, %s!' % request.name)\ndef serve():\n    # 这里通过thread pool来并发处理server的任务\n    server = grpc.server(futures.ThreadPoolExecutor(max_workers=10))\n    # 将对应的任务处理函数添加到rpc server中\n    add_HelloWorldServiceServicer_to_server(Hello(), server)\n    # 这里使用的非安全接口，世界gRPC支持TLS/SSL安全连接，以及各种鉴权机制",
+        "detail": "my_grpc.hello_server",
+        "documentation": {}
+    },
+    {
+        "label": "serve",
+        "kind": 2,
+        "importPath": "my_grpc.hello_server",
+        "description": "my_grpc.hello_server",
+        "peekOfCode": "def serve():\n    # 这里通过thread pool来并发处理server的任务\n    server = grpc.server(futures.ThreadPoolExecutor(max_workers=10))\n    # 将对应的任务处理函数添加到rpc server中\n    add_HelloWorldServiceServicer_to_server(Hello(), server)\n    # 这里使用的非安全接口，世界gRPC支持TLS/SSL安全连接，以及各种鉴权机制\n    server.add_insecure_port('[::]:50000')\n    server.start()\n    try:\n        while True:",
+        "detail": "my_grpc.hello_server",
+        "documentation": {}
+    },
+    {
+        "label": "accountMake",
+        "kind": 2,
+        "importPath": "script.Alicsv2Beancount.main",
+        "description": "script.Alicsv2Beancount.main",
+        "peekOfCode": "def accountMake(payee):\n    data = re.findall(r\"^(.+?)\\s\", line[2])[0]\n    payee = str(line[7]).replace(\" \", \"\")\n    remark = str(line[8]).replace(\" \", \"\")\n    number = str(line[9]).replace(\" \", \"\")\n    with open('payee_map.json', 'r', encoding='utf-8') as f:\n        dict = json.load(fp=f)\n        if payee in dict.keys():\n            # 构造一条记录\n            return str.format(\"{} * \\\"{}\\\" \\\"{}\\\"\\n\\t{}\\t+{} CNY\\n\\t{} -{} CNY\\n\",",
+        "detail": "script.Alicsv2Beancount.main",
+        "documentation": {}
+    },
+    {
+        "label": "upload_img",
+        "kind": 2,
+        "importPath": "script.处理Typora文章图片.main",
+        "description": "script.处理Typora文章图片.main",
+        "peekOfCode": "def upload_img(file_name, file_path):\n    access_key = config[\"access_key\"]\n    secret_key = config[\"secret_key\"]\n    q = Auth(access_key, secret_key)\n    bucket_name = config[\"bucket_name\"]\n    key = file_name\n    token = q.upload_token(bucket_name, key, 3600)\n    localfile = file_path\n    ret, info = put_file(token, key, localfile)\n    print(file_name, \"上传成功\")",
+        "detail": "script.处理Typora文章图片.main",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "script.处理Typora文章图片.main",
+        "description": "script.处理Typora文章图片.main",
+        "peekOfCode": "config = {\n    \"access_key\": \"OcZiLE2w5HFn-piCno178aJ0g32pfI18bG4rjC7v\",\n    \"secret_key\": \"CrJjANFUyfSEFp36UsFXsi0DBiuZWL4H6rh_RIM5\",\n    \"os\": \"unix\",  # unix/win\n    \"bucket_name\": \"python_wx_pic\",\n    \"domain\": \"http://qiniuimg.beangogo.cn\"  # 例如：http://qiniuimg.beangogo.cn\n}\ndef upload_img(file_name, file_path):\n    access_key = config[\"access_key\"]\n    secret_key = config[\"secret_key\"]",
+        "detail": "script.处理Typora文章图片.main",
+        "documentation": {}
+    },
+    {
+        "label": "upload_img",
+        "kind": 2,
+        "importPath": "script.处理Typora文章图片.main_yin",
+        "description": "script.处理Typora文章图片.main_yin",
+        "peekOfCode": "def upload_img(file_name, file_path,bucket_name):\n    access_key = \"\"\n    secret_key = \"\"\n    q = Auth(access_key, secret_key)\n    key = file_name\n    token = q.upload_token(bucket_name, key, 3600)\n    localfile = file_path\n    ret, info = put_file(token, key, localfile)\n    print(bucket_name,file_name,\"上传成功\")\n    return ret[\"key\"]",
+        "detail": "script.处理Typora文章图片.main_yin",
+        "documentation": {}
+    },
+    {
+        "label": "ip_producter",
+        "kind": 2,
+        "importPath": "script.海量数据处理.ip_producter",
+        "description": "script.海量数据处理.ip_producter",
+        "peekOfCode": "def ip_producter(num):\n    \"\"\"\n    海量IP生成器，至少需要产出1000个IP\n    :param num: 需要产生的IP数量\n    :return:\n    \"\"\"\n    random_max = num/200\n    with open('data.txt', 'a', encoding='utf-8') as f:\n        for i in range(0, num):\n            ip = '{}.{}.{}.{}'.format(random.randint(1, 128), random.randint(0, 128),",
+        "detail": "script.海量数据处理.ip_producter",
+        "documentation": {}
+    },
+    {
+        "label": "split_file",
+        "kind": 2,
+        "importPath": "script.海量数据处理.top_ip",
+        "description": "script.海量数据处理.top_ip",
+        "peekOfCode": "def split_file(file_num, file_path):\n    \"\"\"\n    对大文件进行哈希分割\n    :param file_path:\n    :return:\n    \"\"\"\n    try:\n        os.mkdir('files')\n    except:\n        pass",
+        "detail": "script.海量数据处理.top_ip",
+        "documentation": {}
+    },
+    {
+        "label": "top_one",
+        "kind": 2,
+        "importPath": "script.海量数据处理.top_ip",
+        "description": "script.海量数据处理.top_ip",
+        "peekOfCode": "def top_one(file_path, min):\n    \"\"\"\n    找出小文件中频率最高的IP地址及频率（如果有并列的的返回list）\n    :param file_path:\n    :param min: 最小频率\n    :return:\n    \"\"\"\n    ips = {}\n    ip_map = {}\n    max = 0",
+        "detail": "script.海量数据处理.top_ip",
+        "documentation": {}
+    },
+    {
+        "label": "fun1",
+        "kind": 2,
+        "importPath": "script.profile_test",
+        "description": "script.profile_test",
+        "peekOfCode": "def fun1():\n    res = []\n    max_len = 100000\n    arr = [i for i in range(max_len)]\n    for i in range(1000):\n        cur = random.randint(0, max_len)\n        if cur in arr:\n            res.append(cur)\n    return res\ndef fun2():",
+        "detail": "script.profile_test",
+        "documentation": {}
+    },
+    {
+        "label": "fun2",
+        "kind": 2,
+        "importPath": "script.profile_test",
+        "description": "script.profile_test",
+        "peekOfCode": "def fun2():\n    res = []\n    max_len = 100000\n    arr = set([i for i in range(max_len)])\n    for i in range(1000):\n        cur = random.randint(0, max_len)\n        if cur in arr:\n            res.append(cur)\n    return res\nif __name__ == '__main__':",
+        "detail": "script.profile_test",
+        "documentation": {}
+    },
+    {
+        "label": "int_to_str62",
+        "kind": 2,
+        "importPath": "script.short_url",
+        "description": "script.short_url",
+        "peekOfCode": "def int_to_str62(x):\n    \"\"\"整数转化为62进制字符串\"\"\"\n    try:\n        x = int(x)\n    except:\n        x = 0\n    if x < 0:x = -x\n    if x == 0:return \"0\"\n    s = \"\"\n    while x > 62:",
+        "detail": "script.short_url",
+        "documentation": {}
+    },
+    {
+        "label": "str62_to_int",
+        "kind": 2,
+        "importPath": "script.short_url",
+        "description": "script.short_url",
+        "peekOfCode": "def str62_to_int(s):\n    \"\"\"62进制字符串转化为整数\"\"\"\n    x = 0\n    s = str(s).strip()\n    if s == \"\":return x\n    for y in s:\n        k = digit62.find(y)\n        if k >= 0:\n            x = x * 62 + k\n    return x",
+        "detail": "script.short_url",
+        "documentation": {}
+    },
+    {
+        "label": "digit62",
+        "kind": 5,
+        "importPath": "script.short_url",
+        "description": "script.short_url",
+        "peekOfCode": "digit62 = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'\ndef int_to_str62(x):\n    \"\"\"整数转化为62进制字符串\"\"\"\n    try:\n        x = int(x)\n    except:\n        x = 0\n    if x < 0:x = -x\n    if x == 0:return \"0\"\n    s = \"\"",
+        "detail": "script.short_url",
+        "documentation": {}
+    },
+    {
+        "label": "speak",
+        "kind": 2,
+        "importPath": "script.speak_file",
+        "description": "script.speak_file",
+        "peekOfCode": "def speak(data_str):\n    cmd = f\"say '{data_str}'\"\n    os.system(cmd)\nif __name__ == '__main__':\n    path = 'speak_data.txt'\n    file_object = open(path, 'r')\n    try:\n        for line in file_object:\n            line = line.replace('\\n','')\n            speak(line)",
+        "detail": "script.speak_file",
+        "documentation": {}
+    },
+    {
+        "label": "get_cookie",
+        "kind": 2,
+        "importPath": "spider.baoli.get_cookie",
+        "description": "spider.baoli.get_cookie",
+        "peekOfCode": "def get_cookie():\n    url_1 = \"https://www.polyt.cn\"\n    url_2 = \"https://www.polyt.cn/choose/seat?showId=42337&projectId=561956346200780800&sectionId=42248\"\n    browser = util.get_browser(util.MAC_WEBDRIVER_PATH)\n    browser.get(url_1)\n    input(\"随便输入一个字符\")\n    browser.get(url_2)\n    cookies = browser.get_cookies()\n    return cookies\nif __name__ == '__main__':",
+        "detail": "spider.baoli.get_cookie",
+        "documentation": {}
+    },
+    {
+        "label": "common_req",
+        "kind": 2,
+        "importPath": "spider.baoli.util",
+        "description": "spider.baoli.util",
+        "peekOfCode": "def common_req(url):\n    res = requests.get(url)\n    res.encoding = 'utf-8'\n    return res.text\ndef get_headless_browser(driver_path):\n    \"\"\"启动一个无头浏览器\"\"\"\n    chrome_options = webdriver.ChromeOptions()\n    chrome_options.add_argument('--headless')\n    chrome_options.add_argument('--no-sandbox')\n    chrome_options.add_argument('--disable-gpu')",
+        "detail": "spider.baoli.util",
+        "documentation": {}
+    },
+    {
+        "label": "get_headless_browser",
+        "kind": 2,
+        "importPath": "spider.baoli.util",
+        "description": "spider.baoli.util",
+        "peekOfCode": "def get_headless_browser(driver_path):\n    \"\"\"启动一个无头浏览器\"\"\"\n    chrome_options = webdriver.ChromeOptions()\n    chrome_options.add_argument('--headless')\n    chrome_options.add_argument('--no-sandbox')\n    chrome_options.add_argument('--disable-gpu')\n    chrome_options.add_argument('--disable-dev-shm-usage')\n    browser = webdriver.Chrome(executable_path=driver_path, options=chrome_options)\n    return browser\ndef get_browser(driver_path=MAC_WEBDRIVER_PATH):",
+        "detail": "spider.baoli.util",
+        "documentation": {}
+    },
+    {
+        "label": "get_browser",
+        "kind": 2,
+        "importPath": "spider.baoli.util",
+        "description": "spider.baoli.util",
+        "peekOfCode": "def get_browser(driver_path=MAC_WEBDRIVER_PATH):\n    \"\"\"启动一个普通浏览器\"\"\"\n    chrome_options = webdriver.ChromeOptions()\n    browser = webdriver.Chrome(executable_path=driver_path, options=chrome_options)\n    return browser\ndef url_decode(url_str):\n    return unquote(url_str, 'utf8')\ndef fullpage_screenshot(driver, file):\n    print(\"Starting chrome full page screenshot workaround ...\")\n    total_width = driver.execute_script(\"return document.body.offsetWidth\")",
+        "detail": "spider.baoli.util",
+        "documentation": {}
+    },
+    {
+        "label": "url_decode",
+        "kind": 2,
+        "importPath": "spider.baoli.util",
+        "description": "spider.baoli.util",
+        "peekOfCode": "def url_decode(url_str):\n    return unquote(url_str, 'utf8')\ndef fullpage_screenshot(driver, file):\n    print(\"Starting chrome full page screenshot workaround ...\")\n    total_width = driver.execute_script(\"return document.body.offsetWidth\")\n    total_height = driver.execute_script(\"return document.body.parentNode.scrollHeight\")\n    viewport_width = driver.execute_script(\"return document.body.clientWidth\")\n    viewport_height = driver.execute_script(\"return window.innerHeight\")\n    print(\"Total: ({0}, {1}), Viewport: ({2},{3})\".format(total_width, total_height, viewport_width, viewport_height))\n    rectangles = []",
+        "detail": "spider.baoli.util",
+        "documentation": {}
+    },
+    {
+        "label": "fullpage_screenshot",
+        "kind": 2,
+        "importPath": "spider.baoli.util",
+        "description": "spider.baoli.util",
+        "peekOfCode": "def fullpage_screenshot(driver, file):\n    print(\"Starting chrome full page screenshot workaround ...\")\n    total_width = driver.execute_script(\"return document.body.offsetWidth\")\n    total_height = driver.execute_script(\"return document.body.parentNode.scrollHeight\")\n    viewport_width = driver.execute_script(\"return document.body.clientWidth\")\n    viewport_height = driver.execute_script(\"return window.innerHeight\")\n    print(\"Total: ({0}, {1}), Viewport: ({2},{3})\".format(total_width, total_height, viewport_width, viewport_height))\n    rectangles = []\n    i = 0\n    while i < total_height:",
+        "detail": "spider.baoli.util",
+        "documentation": {}
+    },
+    {
+        "label": "client_post",
+        "kind": 2,
+        "importPath": "spider.baoli.util",
+        "description": "spider.baoli.util",
+        "peekOfCode": "def client_post(url, data):\n    url = \"https://www.vmgirls.com/wp-admin/admin-ajax.php\"\n    data = {\"key\": \"value\"}\n    res = requests.post(url=url, data=data)\n    print(res.text)\nasync def main():\n    http_client = aiohttp.ClientSession()\n    url = \"https://www.vmgirls.com/wp-admin/admin-ajax.php\"\n    data = {'append': 'list-archive',\n            'paged': '1',",
+        "detail": "spider.baoli.util",
+        "documentation": {}
+    },
+    {
+        "label": "LINUX_WEBDRIVER_PATH",
+        "kind": 5,
+        "importPath": "spider.baoli.util",
+        "description": "spider.baoli.util",
+        "peekOfCode": "LINUX_WEBDRIVER_PATH = r\"/usr/local/src/chromedriver\"\nMAC_WEBDRIVER_PATH = r\"/Users/tao/soft/chromedriver_90\"\ndef common_req(url):\n    res = requests.get(url)\n    res.encoding = 'utf-8'\n    return res.text\ndef get_headless_browser(driver_path):\n    \"\"\"启动一个无头浏览器\"\"\"\n    chrome_options = webdriver.ChromeOptions()\n    chrome_options.add_argument('--headless')",
+        "detail": "spider.baoli.util",
+        "documentation": {}
+    },
+    {
+        "label": "MAC_WEBDRIVER_PATH",
+        "kind": 5,
+        "importPath": "spider.baoli.util",
+        "description": "spider.baoli.util",
+        "peekOfCode": "MAC_WEBDRIVER_PATH = r\"/Users/tao/soft/chromedriver_90\"\ndef common_req(url):\n    res = requests.get(url)\n    res.encoding = 'utf-8'\n    return res.text\ndef get_headless_browser(driver_path):\n    \"\"\"启动一个无头浏览器\"\"\"\n    chrome_options = webdriver.ChromeOptions()\n    chrome_options.add_argument('--headless')\n    chrome_options.add_argument('--no-sandbox')",
+        "detail": "spider.baoli.util",
+        "documentation": {}
+    },
+    {
+        "label": "get_headless_browser",
+        "kind": 2,
+        "importPath": "spider.jiu_chrmoe_headless.chrom_headless",
+        "description": "spider.jiu_chrmoe_headless.chrom_headless",
+        "peekOfCode": "def get_headless_browser():\n    chrome_options = webdriver.ChromeOptions()\n    chrome_options.add_argument('--headless')\n    chrome_options.add_argument('--no-sandbox')\n    chrome_options.add_argument('--disable-gpu')\n    chrome_options.add_argument('--disable-dev-shm-usage')\n    browser = webdriver.Chrome(executable_path=MAC_WEBDRIVER_PATH, options=chrome_options)\n    return browser\ndef get_browser():\n    chrome_options = webdriver.ChromeOptions()",
+        "detail": "spider.jiu_chrmoe_headless.chrom_headless",
+        "documentation": {}
+    },
+    {
+        "label": "get_browser",
+        "kind": 2,
+        "importPath": "spider.jiu_chrmoe_headless.chrom_headless",
+        "description": "spider.jiu_chrmoe_headless.chrom_headless",
+        "peekOfCode": "def get_browser():\n    chrome_options = webdriver.ChromeOptions()\n    browser = webdriver.Chrome(executable_path=MAC_WEBDRIVER_PATH, options=chrome_options)\n    return browser\nif __name__ == '__main__':\n    url = 'https://www.gangbao365.com/exp/hangsource/buy/picksource/list.do'\n    browser = get_browser()\n    browser.get(url)\n    browser.find_element_by_xpath(\"//*[@id='pageno']\").send_keys(12)\n    element_go = browser.find_element_by_xpath(\"/html/body/div[8]/form/div[12]/table/tbody/tr/td[2]/div/div[2]/span[2]/input[2]\")",
+        "detail": "spider.jiu_chrmoe_headless.chrom_headless",
+        "documentation": {}
+    },
+    {
+        "label": "LINUX_WEBDRIVER_PATH",
+        "kind": 5,
+        "importPath": "spider.jiu_chrmoe_headless.chrom_headless",
+        "description": "spider.jiu_chrmoe_headless.chrom_headless",
+        "peekOfCode": "LINUX_WEBDRIVER_PATH = r\"/usr/local/src/chromedriver\"\nMAC_WEBDRIVER_PATH = r\"/Users/tao/soft/chromedriver\"\ndef get_headless_browser():\n    chrome_options = webdriver.ChromeOptions()\n    chrome_options.add_argument('--headless')\n    chrome_options.add_argument('--no-sandbox')\n    chrome_options.add_argument('--disable-gpu')\n    chrome_options.add_argument('--disable-dev-shm-usage')\n    browser = webdriver.Chrome(executable_path=MAC_WEBDRIVER_PATH, options=chrome_options)\n    return browser",
+        "detail": "spider.jiu_chrmoe_headless.chrom_headless",
+        "documentation": {}
+    },
+    {
+        "label": "MAC_WEBDRIVER_PATH",
+        "kind": 5,
+        "importPath": "spider.jiu_chrmoe_headless.chrom_headless",
+        "description": "spider.jiu_chrmoe_headless.chrom_headless",
+        "peekOfCode": "MAC_WEBDRIVER_PATH = r\"/Users/tao/soft/chromedriver\"\ndef get_headless_browser():\n    chrome_options = webdriver.ChromeOptions()\n    chrome_options.add_argument('--headless')\n    chrome_options.add_argument('--no-sandbox')\n    chrome_options.add_argument('--disable-gpu')\n    chrome_options.add_argument('--disable-dev-shm-usage')\n    browser = webdriver.Chrome(executable_path=MAC_WEBDRIVER_PATH, options=chrome_options)\n    return browser\ndef get_browser():",
+        "detail": "spider.jiu_chrmoe_headless.chrom_headless",
+        "documentation": {}
+    },
+    {
+        "label": "getpic",
+        "kind": 2,
+        "importPath": "spider.login-test.image-save-test",
+        "description": "spider.login-test.image-save-test",
+        "peekOfCode": "def getpic(pic_url):\n    requ = urllib.request.Request(pic_url)\n    try:\n        imgData = urllib.request.urlopen(requ).read()\n        with open('D:/'+pic_url[-7:]+'.png', 'wb') as f:\n            f.write(imgData)\n            f.close()\n        print('yes')\n    except Exception as e:\n        print(e)",
+        "detail": "spider.login-test.image-save-test",
+        "documentation": {}
+    },
+    {
+        "label": "getpic2",
+        "kind": 2,
+        "importPath": "spider.login-test.image-save-test",
+        "description": "spider.login-test.image-save-test",
+        "peekOfCode": "def getpic2(pic_url,cookie):\n    '''\n    带cookie访问验证码地址,以实现登录功能\n    :param pic_url:\n    :param cookie:\n    :return:\n    '''\n    header={\n        'Cookie':cookie,\n    }",
+        "detail": "spider.login-test.image-save-test",
+        "documentation": {}
+    },
+    {
+        "label": "getpic",
+        "kind": 2,
+        "importPath": "spider.login-test.login-test3",
+        "description": "spider.login-test.login-test3",
+        "peekOfCode": "def getpic(pic_url,cookie):\n    '''\n    带cookie访问验证码地址,以实现登录功能\n    :param pic_url:\n    :param cookie:\n    :return:\n    '''\n    header={\n        'Cookie':cookie,\n    }",
+        "detail": "spider.login-test.login-test3",
+        "documentation": {}
+    },
+    {
+        "label": "getProxy",
+        "kind": 6,
+        "importPath": "spider.proxy-test.IP-test2",
+        "description": "spider.proxy-test.IP-test2",
+        "peekOfCode": "class getProxy():\n    def __init__(self):\n        self.client=MongoClient()\n        self.db=self.client.Taoey\n        self.user_agent = \"Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)\"\n        self.header = {\"User-Agent\": self.user_agent}\n        self.now = time.strftime(\"%Y-%m-%d\")\n    def getContent(self, num):\n        nn_url = \"http://www.xicidaili.com/nn/\" + str(num)\n        #国内高匿",
+        "detail": "spider.proxy-test.IP-test2",
+        "documentation": {}
+    },
+    {
+        "label": "getProxy",
+        "kind": 6,
+        "importPath": "spider.proxy-test.IP-test3",
+        "description": "spider.proxy-test.IP-test3",
+        "peekOfCode": "class getProxy():\n    def __init__(self):\n        self.client=MongoClient()\n        self.db=self.client.Taoey\n        self.user_agent = \"Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)\"\n        self.header = {\"User-Agent\": self.user_agent}\n        self.now = time.strftime(\"%Y-%m-%d\")\n    def getContent(self, num):\n        nn_url = \"http://www.xicidaili.com/nn/\" + str(num)\n        #国内高匿",
+        "detail": "spider.proxy-test.IP-test3",
+        "documentation": {}
+    },
+    {
+        "label": "get_freshList",
+        "kind": 2,
+        "importPath": "spider.test_qq_email.GET_Email2",
+        "description": "spider.test_qq_email.GET_Email2",
+        "peekOfCode": "def get_freshList(dataList):\n    '处理获得的list数据,清除多余的字符'\n    freshList=[]\n    for i in dataList:\n        freshList.append(\"\".join(i.replace('\\n','').replace(' ','').replace('\\t','')))\n    return freshList\nif __name__ == '__main__':\n    web_data = \"\"\"\n        D:\\CCApplication\\an3\\python.exe E:/Code/python/spy/QQ_Email/GET_Email2.py\n    <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\" class=\"ver54\"><head>",
+        "detail": "spider.test_qq_email.GET_Email2",
+        "documentation": {}
+    },
+    {
+        "label": "p",
+        "kind": 2,
+        "importPath": "spider.test_qq_email.LoolTimer",
+        "description": "spider.test_qq_email.LoolTimer",
+        "peekOfCode": "def p():\n    now_time=datetime.now().strftime('%Y-%m-%d %H:%M:%S')\n    print(now_time)\none_day=60*60*24\nwhile True:\n    p()\n    time.sleep(5)",
+        "detail": "spider.test_qq_email.LoolTimer",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.MySQL",
+        "description": "spider.test_qq_email.MySQL",
+        "peekOfCode": "conn = pymysql.connect(host=\"127.0.0.1\", port=3306, user=\"root\", passwd=\"123456\", db=\"test\", charset=\"utf8\")\ncur = conn.cursor()\nsql = \"select * from books\"\ncur.execute(sql)\nrows = cur.fetchall()\n# print(rows)\nfor dr in rows:\n    print(dr)",
+        "detail": "spider.test_qq_email.MySQL",
+        "documentation": {}
+    },
+    {
+        "label": "cur",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.MySQL",
+        "description": "spider.test_qq_email.MySQL",
+        "peekOfCode": "cur = conn.cursor()\nsql = \"select * from books\"\ncur.execute(sql)\nrows = cur.fetchall()\n# print(rows)\nfor dr in rows:\n    print(dr)",
+        "detail": "spider.test_qq_email.MySQL",
+        "documentation": {}
+    },
+    {
+        "label": "sql",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.MySQL",
+        "description": "spider.test_qq_email.MySQL",
+        "peekOfCode": "sql = \"select * from books\"\ncur.execute(sql)\nrows = cur.fetchall()\n# print(rows)\nfor dr in rows:\n    print(dr)",
+        "detail": "spider.test_qq_email.MySQL",
+        "documentation": {}
+    },
+    {
+        "label": "rows",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.MySQL",
+        "description": "spider.test_qq_email.MySQL",
+        "peekOfCode": "rows = cur.fetchall()\n# print(rows)\nfor dr in rows:\n    print(dr)",
+        "detail": "spider.test_qq_email.MySQL",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "kind": 2,
+        "importPath": "spider.test_qq_email.sendEmail",
+        "description": "spider.test_qq_email.sendEmail",
+        "peekOfCode": "def send_mail(me,you, content):\n    msg = MIMEText(content, _subtype='plain', _charset='gb2312')\n    msg['From'] = me\n    msg['To'] =you\n    try:\n        server = smtplib.SMTP()\n        server.connect(mail_host)\n        server.login(mail_user, mail_pass)\n        server.sendmail(me,you, msg.as_string())\n        server.close()",
+        "detail": "spider.test_qq_email.sendEmail",
+        "documentation": {}
+    },
+    {
+        "label": "mailto_list",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail",
+        "description": "spider.test_qq_email.sendEmail",
+        "peekOfCode": "mailto_list = [\"2517129987@qq.com\"]\nmail_host = \"smtp.163.com\"  # 设置服务器\nmail_user = \"swhwtqwer@163.com\"  # 用户名\nmail_pass = \"\"  # 口令\nmail_postfix = \"163.com\"  # 发件箱的后缀\ndef send_mail(me,you, content):\n    msg = MIMEText(content, _subtype='plain', _charset='gb2312')\n    msg['From'] = me\n    msg['To'] =you\n    try:",
+        "detail": "spider.test_qq_email.sendEmail",
+        "documentation": {}
+    },
+    {
+        "label": "mail_host",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail",
+        "description": "spider.test_qq_email.sendEmail",
+        "peekOfCode": "mail_host = \"smtp.163.com\"  # 设置服务器\nmail_user = \"swhwtqwer@163.com\"  # 用户名\nmail_pass = \"\"  # 口令\nmail_postfix = \"163.com\"  # 发件箱的后缀\ndef send_mail(me,you, content):\n    msg = MIMEText(content, _subtype='plain', _charset='gb2312')\n    msg['From'] = me\n    msg['To'] =you\n    try:\n        server = smtplib.SMTP()",
+        "detail": "spider.test_qq_email.sendEmail",
+        "documentation": {}
+    },
+    {
+        "label": "mail_user",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail",
+        "description": "spider.test_qq_email.sendEmail",
+        "peekOfCode": "mail_user = \"swhwtqwer@163.com\"  # 用户名\nmail_pass = \"\"  # 口令\nmail_postfix = \"163.com\"  # 发件箱的后缀\ndef send_mail(me,you, content):\n    msg = MIMEText(content, _subtype='plain', _charset='gb2312')\n    msg['From'] = me\n    msg['To'] =you\n    try:\n        server = smtplib.SMTP()\n        server.connect(mail_host)",
+        "detail": "spider.test_qq_email.sendEmail",
+        "documentation": {}
+    },
+    {
+        "label": "mail_pass",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail",
+        "description": "spider.test_qq_email.sendEmail",
+        "peekOfCode": "mail_pass = \"\"  # 口令\nmail_postfix = \"163.com\"  # 发件箱的后缀\ndef send_mail(me,you, content):\n    msg = MIMEText(content, _subtype='plain', _charset='gb2312')\n    msg['From'] = me\n    msg['To'] =you\n    try:\n        server = smtplib.SMTP()\n        server.connect(mail_host)\n        server.login(mail_user, mail_pass)",
+        "detail": "spider.test_qq_email.sendEmail",
+        "documentation": {}
+    },
+    {
+        "label": "mail_postfix",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail",
+        "description": "spider.test_qq_email.sendEmail",
+        "peekOfCode": "mail_postfix = \"163.com\"  # 发件箱的后缀\ndef send_mail(me,you, content):\n    msg = MIMEText(content, _subtype='plain', _charset='gb2312')\n    msg['From'] = me\n    msg['To'] =you\n    try:\n        server = smtplib.SMTP()\n        server.connect(mail_host)\n        server.login(mail_user, mail_pass)\n        server.sendmail(me,you, msg.as_string())",
+        "detail": "spider.test_qq_email.sendEmail",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail3",
+        "description": "spider.test_qq_email.sendEmail3",
+        "peekOfCode": "s = smtplib.SMTP('smtp.163.com')\ns.set_debuglevel(True)\ns.login('swhwtqwer@163.com', '')  #输入你的邮箱口令(不是密码哦)\nsub=\"Pythonr\"\ntext=\"\"\"\n秦皇岛\n22日白天\n 晴 24℃\n22日夜间\n多云 10℃",
+        "detail": "spider.test_qq_email.sendEmail3",
+        "documentation": {}
+    },
+    {
+        "label": "msg",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail3",
+        "description": "spider.test_qq_email.sendEmail3",
+        "peekOfCode": "msg = MIMEText(text)\nmsg['Subject'] = '%s' % sub\nmsg['From'] = 'swhwtqwer@163.com'\nmsg['To'] = '741494582@qq.com'\ns.send_message(msg)\ns.quit()",
+        "detail": "spider.test_qq_email.sendEmail3",
+        "documentation": {}
+    },
+    {
+        "label": "msg['Subject']",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail3",
+        "description": "spider.test_qq_email.sendEmail3",
+        "peekOfCode": "msg['Subject'] = '%s' % sub\nmsg['From'] = 'swhwtqwer@163.com'\nmsg['To'] = '741494582@qq.com'\ns.send_message(msg)\ns.quit()",
+        "detail": "spider.test_qq_email.sendEmail3",
+        "documentation": {}
+    },
+    {
+        "label": "msg['From']",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail3",
+        "description": "spider.test_qq_email.sendEmail3",
+        "peekOfCode": "msg['From'] = 'swhwtqwer@163.com'\nmsg['To'] = '741494582@qq.com'\ns.send_message(msg)\ns.quit()",
+        "detail": "spider.test_qq_email.sendEmail3",
+        "documentation": {}
+    },
+    {
+        "label": "msg['To']",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail3",
+        "description": "spider.test_qq_email.sendEmail3",
+        "peekOfCode": "msg['To'] = '741494582@qq.com'\ns.send_message(msg)\ns.quit()",
+        "detail": "spider.test_qq_email.sendEmail3",
+        "documentation": {}
+    },
+    {
+        "label": "me",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail4",
+        "description": "spider.test_qq_email.sendEmail4",
+        "peekOfCode": "me = 'swhwtqwer@163.com'\nyou =[\"2517129987@qq.com\", '741494582@qq.com'] #联系人列表\n# Create message container - the correct MIME type is multipart/alternative.\nmsg = MIMEMultipart('alternative')\nmsg['Subject'] = \"Link的\"\nmsg['From'] = \"黄为涛\"\nmsg['To'] =  \",\".join( you )\n# Create the body of the message (a plain-text and an HTML version).\ntext = \"Hi!\\nHow are you?\\nHereni你好e link you wanted:\\nhttps://www.python.org\"\nhtml = \"\"\"\\",
+        "detail": "spider.test_qq_email.sendEmail4",
+        "documentation": {}
+    },
+    {
+        "label": "msg",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail4",
+        "description": "spider.test_qq_email.sendEmail4",
+        "peekOfCode": "msg = MIMEMultipart('alternative')\nmsg['Subject'] = \"Link的\"\nmsg['From'] = \"黄为涛\"\nmsg['To'] =  \",\".join( you )\n# Create the body of the message (a plain-text and an HTML version).\ntext = \"Hi!\\nHow are you?\\nHereni你好e link you wanted:\\nhttps://www.python.org\"\nhtml = \"\"\"\\\n<html>\n  <head></head>\n  <body>",
+        "detail": "spider.test_qq_email.sendEmail4",
+        "documentation": {}
+    },
+    {
+        "label": "msg['Subject']",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail4",
+        "description": "spider.test_qq_email.sendEmail4",
+        "peekOfCode": "msg['Subject'] = \"Link的\"\nmsg['From'] = \"黄为涛\"\nmsg['To'] =  \",\".join( you )\n# Create the body of the message (a plain-text and an HTML version).\ntext = \"Hi!\\nHow are you?\\nHereni你好e link you wanted:\\nhttps://www.python.org\"\nhtml = \"\"\"\\\n<html>\n  <head></head>\n  <body>\n    <p>Hi!<br>",
+        "detail": "spider.test_qq_email.sendEmail4",
+        "documentation": {}
+    },
+    {
+        "label": "msg['From']",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail4",
+        "description": "spider.test_qq_email.sendEmail4",
+        "peekOfCode": "msg['From'] = \"黄为涛\"\nmsg['To'] =  \",\".join( you )\n# Create the body of the message (a plain-text and an HTML version).\ntext = \"Hi!\\nHow are you?\\nHereni你好e link you wanted:\\nhttps://www.python.org\"\nhtml = \"\"\"\\\n<html>\n  <head></head>\n  <body>\n    <p>Hi!<br>\n       How are you?<br>",
+        "detail": "spider.test_qq_email.sendEmail4",
+        "documentation": {}
+    },
+    {
+        "label": "msg['To']",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail4",
+        "description": "spider.test_qq_email.sendEmail4",
+        "peekOfCode": "msg['To'] =  \",\".join( you )\n# Create the body of the message (a plain-text and an HTML version).\ntext = \"Hi!\\nHow are you?\\nHereni你好e link you wanted:\\nhttps://www.python.org\"\nhtml = \"\"\"\\\n<html>\n  <head></head>\n  <body>\n    <p>Hi!<br>\n       How are you?<br>\n       Here is the <a href=\"https://www.python.org\">链接</a> you wanted.",
+        "detail": "spider.test_qq_email.sendEmail4",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail4",
+        "description": "spider.test_qq_email.sendEmail4",
+        "peekOfCode": "text = \"Hi!\\nHow are you?\\nHereni你好e link you wanted:\\nhttps://www.python.org\"\nhtml = \"\"\"\\\n<html>\n  <head></head>\n  <body>\n    <p>Hi!<br>\n       How are you?<br>\n       Here is the <a href=\"https://www.python.org\">链接</a> you wanted.\n    </p>\n  </body>",
+        "detail": "spider.test_qq_email.sendEmail4",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail4",
+        "description": "spider.test_qq_email.sendEmail4",
+        "peekOfCode": "html = \"\"\"\\\n<html>\n  <head></head>\n  <body>\n    <p>Hi!<br>\n       How are you?<br>\n       Here is the <a href=\"https://www.python.org\">链接</a> you wanted.\n    </p>\n  </body>\n</html>",
+        "detail": "spider.test_qq_email.sendEmail4",
+        "documentation": {}
+    },
+    {
+        "label": "part1",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail4",
+        "description": "spider.test_qq_email.sendEmail4",
+        "peekOfCode": "part1 = MIMEText(text, 'plain')\npart2 = MIMEText(html, 'html')\n# Attach parts into message container.\n# According to RFC 2046, the last part of a multipart message, in this case\n# the HTML message, is best and preferred.\nmsg.attach(part1)\nmsg.attach(part2)\n# Send the message via local SMTP server.\ns = smtplib.SMTP('smtp.163.com')\ns.set_debuglevel(True)",
+        "detail": "spider.test_qq_email.sendEmail4",
+        "documentation": {}
+    },
+    {
+        "label": "part2",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail4",
+        "description": "spider.test_qq_email.sendEmail4",
+        "peekOfCode": "part2 = MIMEText(html, 'html')\n# Attach parts into message container.\n# According to RFC 2046, the last part of a multipart message, in this case\n# the HTML message, is best and preferred.\nmsg.attach(part1)\nmsg.attach(part2)\n# Send the message via local SMTP server.\ns = smtplib.SMTP('smtp.163.com')\ns.set_debuglevel(True)\ns.login('swhwtqwer@163.com', '')   #输入你的邮箱口令",
+        "detail": "spider.test_qq_email.sendEmail4",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "spider.test_qq_email.sendEmail4",
+        "description": "spider.test_qq_email.sendEmail4",
+        "peekOfCode": "s = smtplib.SMTP('smtp.163.com')\ns.set_debuglevel(True)\ns.login('swhwtqwer@163.com', '')   #输入你的邮箱口令\n# sendmail function takes 3 arguments: sender's address, recipient's address\n# and message to send - here it is sent as one string.\ns.sendmail(me, you, msg.as_string())\ns.quit()",
+        "detail": "spider.test_qq_email.sendEmail4",
+        "documentation": {}
+    },
+    {
+        "label": "fun_1",
+        "kind": 2,
+        "importPath": "spider.threading.treading_1",
+        "description": "spider.threading.treading_1",
+        "peekOfCode": "def fun_1(list):\n    chromedriver = \"D:\\CCApplication\\phantomjs-2.1.1-windows\\bin\\phantomjs.exe\"\n    driver = webdriver.PhantomJS()\n    driver.get(\"http://blog.sina.com.cn/u/5616913982\")\n    src=driver.page_source\n    list.append(src)\ndef fun_2(list):\n    chromedriver = \"D:\\CCApplication\\phantomjs-2.1.1-windows\\bin\\phantomjs.exe\"\n    driver = webdriver.PhantomJS()\n    driver.get(\"https://www.douban.com/\")",
+        "detail": "spider.threading.treading_1",
+        "documentation": {}
+    },
+    {
+        "label": "fun_2",
+        "kind": 2,
+        "importPath": "spider.threading.treading_1",
+        "description": "spider.threading.treading_1",
+        "peekOfCode": "def fun_2(list):\n    chromedriver = \"D:\\CCApplication\\phantomjs-2.1.1-windows\\bin\\phantomjs.exe\"\n    driver = webdriver.PhantomJS()\n    driver.get(\"https://www.douban.com/\")\n    src=driver.page_source\n    list.append(src)\ndef fun_3(list):\n    chromedriver = \"D:\\CCApplication\\phantomjs-2.1.1-windows\\bin\\phantomjs.exe\"\n    driver = webdriver.PhantomJS()\n    driver.get(\"http://www.bilibili.com/\")",
+        "detail": "spider.threading.treading_1",
+        "documentation": {}
+    },
+    {
+        "label": "fun_3",
+        "kind": 2,
+        "importPath": "spider.threading.treading_1",
+        "description": "spider.threading.treading_1",
+        "peekOfCode": "def fun_3(list):\n    chromedriver = \"D:\\CCApplication\\phantomjs-2.1.1-windows\\bin\\phantomjs.exe\"\n    driver = webdriver.PhantomJS()\n    driver.get(\"http://www.bilibili.com/\")\n    src=driver.page_source\n    list.append(src)\nif __name__ == '__main__':\n    start=time.time()\n    manger=Manager()\n    l=manger.list()",
+        "detail": "spider.threading.treading_1",
+        "documentation": {}
+    },
+    {
+        "label": "DailyJiong",
+        "kind": 6,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "class DailyJiong(Base):\n    __tablename__ = 'daily_jiong'\n    id = Column(INTEGER(11), primary_key=True)\n    title = NotNullColumn(VARCHAR(255), default='')\n    article_date = NotNullColumn(INTEGER(11), default=0)\n    article_type = NotNullColumn(INTEGER(1), default=0)\n    digest = NotNullColumn(VARCHAR(255), default='')\n    cover = NotNullColumn(VARCHAR(255), default='')\n    content_url = NotNullColumn(VARCHAR(255), default='')\n    pic_url = NotNullColumn(VARCHAR(255), default='')",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "model2dict",
+        "kind": 2,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "def model2dict(model):\n    if not model:\n        return {}\n    fields = class_mapper(model.__class__).columns.keys()\n    return dict((col, getattr(model, col)) for col in fields)\ndef model_to_dict(func):\n    def wrap(*args, **kwargs):\n        ret = func(*args, **kwargs)\n        return model2dict(ret)\n    return wrap",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "model_to_dict",
+        "kind": 2,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "def model_to_dict(func):\n    def wrap(*args, **kwargs):\n        ret = func(*args, **kwargs)\n        return model2dict(ret)\n    return wrap\ndef models_to_list(func):\n    def wrap(*args, **kwargs):\n        ret = func(*args, **kwargs)\n        return [model2dict(r) for r in ret]\n    return wrap",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "models_to_list",
+        "kind": 2,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "def models_to_list(func):\n    def wrap(*args, **kwargs):\n        ret = func(*args, **kwargs)\n        return [model2dict(r) for r in ret]\n    return wrap\ndef tuples_first_to_list(func):\n    def wrap(*args, **kwargs):\n        ret = func(*args, **kwargs)\n        return [item[0] for item in ret]\n    return wrap",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "tuples_first_to_list",
+        "kind": 2,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "def tuples_first_to_list(func):\n    def wrap(*args, **kwargs):\n        ret = func(*args, **kwargs)\n        return [item[0] for item in ret]\n    return wrap\n# -------------------------------业务逻辑----------------------------------\nclass DailyJiong(Base):\n    __tablename__ = 'daily_jiong'\n    id = Column(INTEGER(11), primary_key=True)\n    title = NotNullColumn(VARCHAR(255), default='')",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "def add(**kw):\n    session.add(DailyJiong(**kw))\n    session.commit()\ndef update(id, **kwargs):\n    session.query(DailyJiong).filter_by(id=id).update(kwargs)\n    session.commit()\ndef is_exist_by_content_url(url):\n    res = session.query(DailyJiong).filter_by(content_url=url).first()\n    return True if res else False\n@models_to_list",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "kind": 2,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "def update(id, **kwargs):\n    session.query(DailyJiong).filter_by(id=id).update(kwargs)\n    session.commit()\ndef is_exist_by_content_url(url):\n    res = session.query(DailyJiong).filter_by(content_url=url).first()\n    return True if res else False\n@models_to_list\ndef get_muti_undownload(count):\n    \"\"\"获取未下载的的文章\"\"\"\n    return session.query(DailyJiong).filter_by(article_type=1, pic_url=\"\")[0:count]",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "is_exist_by_content_url",
+        "kind": 2,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "def is_exist_by_content_url(url):\n    res = session.query(DailyJiong).filter_by(content_url=url).first()\n    return True if res else False\n@models_to_list\ndef get_muti_undownload(count):\n    \"\"\"获取未下载的的文章\"\"\"\n    return session.query(DailyJiong).filter_by(article_type=1, pic_url=\"\")[0:count]\n@models_to_list\ndef get_muti_unupload(start, end):\n    \"\"\"获取未上传的图片资源\"\"\"",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "get_muti_undownload",
+        "kind": 2,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "def get_muti_undownload(count):\n    \"\"\"获取未下载的的文章\"\"\"\n    return session.query(DailyJiong).filter_by(article_type=1, pic_url=\"\")[0:count]\n@models_to_list\ndef get_muti_unupload(start, end):\n    \"\"\"获取未上传的图片资源\"\"\"\n    return session.query(DailyJiong).filter(DailyJiong.pic_url != \"\", DailyJiong.digest != \"\")[start:end]\n@model_to_dict\ndef get_item_by_id(id):\n    return session.query(DailyJiong).filter_by(id=id).first()",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "get_muti_unupload",
+        "kind": 2,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "def get_muti_unupload(start, end):\n    \"\"\"获取未上传的图片资源\"\"\"\n    return session.query(DailyJiong).filter(DailyJiong.pic_url != \"\", DailyJiong.digest != \"\")[start:end]\n@model_to_dict\ndef get_item_by_id(id):\n    return session.query(DailyJiong).filter_by(id=id).first()\ndef get_random_item(count):\n    return\n@models_to_list\ndef get_muti():",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "get_item_by_id",
+        "kind": 2,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "def get_item_by_id(id):\n    return session.query(DailyJiong).filter_by(id=id).first()\ndef get_random_item(count):\n    return\n@models_to_list\ndef get_muti():\n    \"\"\"\n    获取资源拼接成文章\n    规则：选取5篇文章\n    1-今日话题：{head_title}",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "get_random_item",
+        "kind": 2,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "def get_random_item(count):\n    return\n@models_to_list\ndef get_muti():\n    \"\"\"\n    获取资源拼接成文章\n    规则：选取5篇文章\n    1-今日话题：{head_title}\n    2-4个月前随机一篇文章，出现次数低于3（未获取到优先扩大日期+1月，然后扩大出现次数）\n    3-3个月篇随机一篇文章，出现次数低于3",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "get_muti",
+        "kind": 2,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "def get_muti():\n    \"\"\"\n    获取资源拼接成文章\n    规则：选取5篇文章\n    1-今日话题：{head_title}\n    2-4个月前随机一篇文章，出现次数低于3（未获取到优先扩大日期+1月，然后扩大出现次数）\n    3-3个月篇随机一篇文章，出现次数低于3\n    4-2个月前随机一篇文章，出现次数低于3\n    5-2个月前随机一篇文章，出现次数低于3\n    :return:",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "Base = declarative_base()\nengine = create_engine(\"mysql+pymysql://root:123456@47.98.165.192:3366/wx_gzh?charset=utf8mb4\")\nSession = sessionmaker(bind=engine)\nNotNullColumn = partial(Column, nullable=False, server_default='')\nsession = Session()  # 全局session\ndef model2dict(model):\n    if not model:\n        return {}\n    fields = class_mapper(model.__class__).columns.keys()\n    return dict((col, getattr(model, col)) for col in fields)",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "engine = create_engine(\"mysql+pymysql://root:123456@47.98.165.192:3366/wx_gzh?charset=utf8mb4\")\nSession = sessionmaker(bind=engine)\nNotNullColumn = partial(Column, nullable=False, server_default='')\nsession = Session()  # 全局session\ndef model2dict(model):\n    if not model:\n        return {}\n    fields = class_mapper(model.__class__).columns.keys()\n    return dict((col, getattr(model, col)) for col in fields)\ndef model_to_dict(func):",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "kind": 5,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "Session = sessionmaker(bind=engine)\nNotNullColumn = partial(Column, nullable=False, server_default='')\nsession = Session()  # 全局session\ndef model2dict(model):\n    if not model:\n        return {}\n    fields = class_mapper(model.__class__).columns.keys()\n    return dict((col, getattr(model, col)) for col in fields)\ndef model_to_dict(func):\n    def wrap(*args, **kwargs):",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "NotNullColumn",
+        "kind": 5,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "NotNullColumn = partial(Column, nullable=False, server_default='')\nsession = Session()  # 全局session\ndef model2dict(model):\n    if not model:\n        return {}\n    fields = class_mapper(model.__class__).columns.keys()\n    return dict((col, getattr(model, col)) for col in fields)\ndef model_to_dict(func):\n    def wrap(*args, **kwargs):\n        ret = func(*args, **kwargs)",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "kind": 5,
+        "importPath": "spider.wx.mysql",
+        "description": "spider.wx.mysql",
+        "peekOfCode": "session = Session()  # 全局session\ndef model2dict(model):\n    if not model:\n        return {}\n    fields = class_mapper(model.__class__).columns.keys()\n    return dict((col, getattr(model, col)) for col in fields)\ndef model_to_dict(func):\n    def wrap(*args, **kwargs):\n        ret = func(*args, **kwargs)\n        return model2dict(ret)",
+        "detail": "spider.wx.mysql",
+        "documentation": {}
+    },
+    {
+        "label": "scroll_to_bottom",
+        "kind": 2,
+        "importPath": "spider.wx.read_myself",
+        "description": "spider.wx.read_myself",
+        "peekOfCode": "def scroll_to_bottom(browser):\n    js = \"return action=document.body.scrollHeight\"\n    # 初始化现在滚动条所在高度为0\n    height = 0\n    # 当前窗口总高度\n    new_height = browser.execute_script(js)\n    while height < new_height:\n        for i in range(height, new_height, random.randint(80, 120)):\n            browser.execute_script('window.scrollTo(0, {})'.format(i))\n            time.sleep(0.5)",
+        "detail": "spider.wx.read_myself",
+        "documentation": {}
+    },
+    {
+        "label": "get_day_list",
+        "kind": 2,
+        "importPath": "spider.wx.save_data",
+        "description": "spider.wx.save_data",
+        "peekOfCode": "def get_day_list(filepath):\n    \"\"\"每日文章列表\"\"\"\n    with open(filepath, \"r\", encoding='UTF-8') as f:\n        load_json = json.load(f)\n        content = load_json.get(\"general_msg_list\")\n        content_dict = json.loads(content)\n        content_list = content_dict.get(\"list\")\n        return content_list\ndef get_article_list(day_data):\n    \"\"\"处理单独一天的数据\"\"\"",
+        "detail": "spider.wx.save_data",
+        "documentation": {}
+    },
+    {
+        "label": "get_article_list",
+        "kind": 2,
+        "importPath": "spider.wx.save_data",
+        "description": "spider.wx.save_data",
+        "peekOfCode": "def get_article_list(day_data):\n    \"\"\"处理单独一天的数据\"\"\"\n    res = []\n    art_datetime = day_data[\"comm_msg_info\"].get(\"datetime\", 0)\n    # 首个文章\n    first_item = {\n        \"title\": day_data[\"app_msg_ext_info\"][\"title\"],\n        \"digest\": day_data[\"app_msg_ext_info\"][\"digest\"],\n        \"content_url\": day_data[\"app_msg_ext_info\"][\"content_url\"],\n        \"cover\": day_data[\"app_msg_ext_info\"][\"cover\"],",
+        "detail": "spider.wx.save_data",
+        "documentation": {}
+    },
+    {
+        "label": "get_data_filepaths",
+        "kind": 2,
+        "importPath": "spider.wx.save_data",
+        "description": "spider.wx.save_data",
+        "peekOfCode": "def get_data_filepaths(dir):\n    \"\"\"\n    获取数据文件绝对路径\n    root :当前目录路径\n    dirs:当前路径下所有子目录\n    files:当前路径下所有非目录子文件\n    \"\"\"\n    filepaths = []\n    for root, dirs, files in os.walk(dir):\n        for i in files:",
+        "detail": "spider.wx.save_data",
+        "documentation": {}
+    },
+    {
+        "label": "get_browser",
+        "kind": 2,
+        "importPath": "spider.wx.update_data",
+        "description": "spider.wx.update_data",
+        "peekOfCode": "def get_browser():\n    \"\"\"启动一个普通浏览器\"\"\"\n    driver_path = \"F:\\\\chromedriver.exe\"\n    # driver_path = r\"/Users/tao/soft/chromedriver\"\n    chrome_options = webdriver.ChromeOptions()\n    browser = webdriver.Chrome(executable_path=driver_path, options=chrome_options)\n    return browser\ndef select_pics(page_source):\n    selector = etree.HTML(page_source)\n    try:",
+        "detail": "spider.wx.update_data",
+        "documentation": {}
+    },
+    {
+        "label": "select_pics",
+        "kind": 2,
+        "importPath": "spider.wx.update_data",
+        "description": "spider.wx.update_data",
+        "peekOfCode": "def select_pics(page_source):\n    selector = etree.HTML(page_source)\n    try:\n        # 获取全部图片\n        content = selector.xpath('//*[@id=\"js_content\"]')[0]\n        main_pic_src = content.xpath(\"//img/@src\")\n        pic_list = []\n        for i in main_pic_src:\n            if i.find(\"https://mmbiz.qpic.cn\") != -1:\n                pic_list.append(i)",
+        "detail": "spider.wx.update_data",
+        "documentation": {}
+    },
+    {
+        "label": "get_new_data",
+        "kind": 2,
+        "importPath": "spider.wx.update_data",
+        "description": "spider.wx.update_data",
+        "peekOfCode": "def get_new_data(browser, content_url):\n    browser.get(content_url)\n    time.sleep(random.randint(3, 6))\n    pics = select_pics(browser.page_source)\n    return pics\nif __name__ == '__main__':\n    # 获取抓包文件路径\n    browser = get_browser()\n    contents = spider.wx.mysql.get_muti_undownload(1000)\n    for item in contents:",
+        "detail": "spider.wx.update_data",
+        "documentation": {}
+    },
+    {
+        "label": "upload_to_qiniu",
+        "kind": 2,
+        "importPath": "spider.wx.update_pic_url",
+        "description": "spider.wx.update_pic_url",
+        "peekOfCode": "def upload_to_qiniu(filepath):\n    \"\"\"上传文件到七牛云\"\"\"\n    file_url = \"\"\n    return file_url\ndef save_pic(pic_url, pathfile):\n    # urllib.request.urlretrieve(imgurl, path)  # 打开imgList,下载图片到本地\n    url = urllib.parse.parse_qs(urllib.parse.urlsplit(pic_url).query)\n    pic_suf = url.get(\"wx_fmt\")[0] if url.get(\"wx_fmt\")[0] else \"gif\"\n    filename = f\"{int(time.time())}.{pic_suf}\"\n    Header = {",
+        "detail": "spider.wx.update_pic_url",
+        "documentation": {}
+    },
+    {
+        "label": "save_pic",
+        "kind": 2,
+        "importPath": "spider.wx.update_pic_url",
+        "description": "spider.wx.update_pic_url",
+        "peekOfCode": "def save_pic(pic_url, pathfile):\n    # urllib.request.urlretrieve(imgurl, path)  # 打开imgList,下载图片到本地\n    url = urllib.parse.parse_qs(urllib.parse.urlsplit(pic_url).query)\n    pic_suf = url.get(\"wx_fmt\")[0] if url.get(\"wx_fmt\")[0] else \"gif\"\n    filename = f\"{int(time.time())}.{pic_suf}\"\n    Header = {\n        'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) '\n                      'Chrome/56.0.2924.87 Mobile Safari/537.36',\n    }\n    requ = urllib.request.Request(pic_url, headers=Header)",
+        "detail": "spider.wx.update_pic_url",
+        "documentation": {}
+    },
+    {
+        "label": "upload_img",
+        "kind": 2,
+        "importPath": "spider.wx.utils",
+        "description": "spider.wx.utils",
+        "peekOfCode": "def upload_img(file_name, file_path):\n    \"\"\"上传图片到七牛云\"\"\"\n    access_key = \"OcZiLE2w5HFn-piCno178aJ0g32pfI18bG4rjC7v\"\n    secret_key = \"CrJjANFUyfSEFp36UsFXsi0DBiuZWL4H6rh_RIM5\"\n    q = Auth(access_key, secret_key)\n    bucket_name = 'python_wx_pic'\n    key = file_name\n    token = q.upload_token(bucket_name, key, 3600)\n    localfile = file_path\n    ret, info = put_file(token, key, localfile)",
+        "detail": "spider.wx.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_suffix",
+        "kind": 2,
+        "importPath": "spider.wx.utils",
+        "description": "spider.wx.utils",
+        "peekOfCode": "def get_suffix(file_path):\n    \"\"\"获取文件后缀\"\"\"\n    sp_arr = file_path.split(\".\", 1)\n    return sp_arr[1] if len(sp_arr) == 2 else \"\"\ndef add_gif_mask(text, file_path):\n    pass\nif __name__ == \"__main__\":\n    pass",
+        "detail": "spider.wx.utils",
+        "documentation": {}
+    },
+    {
+        "label": "add_gif_mask",
+        "kind": 2,
+        "importPath": "spider.wx.utils",
+        "description": "spider.wx.utils",
+        "peekOfCode": "def add_gif_mask(text, file_path):\n    pass\nif __name__ == \"__main__\":\n    pass",
+        "detail": "spider.wx.utils",
+        "documentation": {}
+    },
+    {
+        "label": "MongoDB",
+        "kind": 6,
+        "importPath": "three_part.mongodb_test.MongoDB_operate2",
+        "description": "three_part.mongodb_test.MongoDB_operate2",
+        "peekOfCode": "class MongoDB:\n    def __init__(self):\n        client = MongoClient()\n        self.db=client.Taoey\n    def insert(self,data,dataArrt=None):\n        '''\n        增加一条数据,如果没有约束项dataArrt则直接插入\n        :param data: 要插入的数据项,要求是字典\n        :param dataArrt: 要插入数据项的主键属性\n        '''",
+        "detail": "three_part.mongodb_test.MongoDB_operate2",
+        "documentation": {}
+    },
+    {
+        "label": "get_connect",
+        "kind": 2,
+        "importPath": "three_part.mysql.insert_sensitive_words",
+        "description": "three_part.mysql.insert_sensitive_words",
+        "peekOfCode": "def get_connect():\n    \"\"\"\n    创建连接\n    :return:\n    \"\"\"\n    host = '123.207.155.241'\n    user = 'root'\n    password = 'CTn2IgDt3hgi'\n    database = 'ju_friends'\n    return pymysql.connect(host, user, password, database)",
+        "detail": "three_part.mysql.insert_sensitive_words",
+        "documentation": {}
+    },
+    {
+        "label": "insert",
+        "kind": 2,
+        "importPath": "three_part.mysql.insert_sensitive_words",
+        "description": "three_part.mysql.insert_sensitive_words",
+        "peekOfCode": "def insert(file_name,key_name):\n    db = get_connect()\n    cursor = db.cursor()\n    # 获取敏感数据并插入\n    with open(file_name, \"r+\", encoding='utf-8') as f:\n        for line in f.readlines():\n            word = line.strip()\n            sql = \"INSERT INTO `sys_dic`(`status`,pid,`key`,`value`) VALUE({},{},'{}','{}')\".format(1, 1,key_name, word)\n            print(sql)\n            cursor.execute(sql)",
+        "detail": "three_part.mysql.insert_sensitive_words",
+        "documentation": {}
+    },
+    {
+        "label": "get_connect",
+        "kind": 2,
+        "importPath": "three_part.mysql.mysql-test",
+        "description": "three_part.mysql.mysql-test",
+        "peekOfCode": "def get_connect():\n    \"\"\"\n    创建连接\n    :return:\n    \"\"\"\n    host = '123.207.155.241'\n    user = 'root'\n    password = 'CTn2IgDt3hgi'\n    database = 'test'\n    return pymysql.connect(host, user, password, database)",
+        "detail": "three_part.mysql.mysql-test",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "kind": 2,
+        "importPath": "three_part.mysql.mysql-test",
+        "description": "three_part.mysql.mysql-test",
+        "peekOfCode": "def select(sql):\n    \"\"\"\n    查询语句执行模板\n    :param sql:\n    :return:\n    \"\"\"\n    db = get_connect()\n    cursor = db.cursor()\n    cursor.execute(sql)\n    result = cursor.fetchall()",
+        "detail": "three_part.mysql.mysql-test",
+        "documentation": {}
+    },
+    {
+        "label": "mysql_close_orders",
+        "kind": 2,
+        "importPath": "three_part.redis.延时队列.redis_zset_mq",
+        "description": "three_part.redis.延时队列.redis_zset_mq",
+        "peekOfCode": "def mysql_close_orders(orderids):\n    # TODO： Mysql批量关闭orderids个订单\n    sql_1 = \"\"\"\n    UPDATE book_order\n             SET status = CASE id\n                 WHEN 1001 THEN 2\n                 WHEN 1002 THEN 2\n                 WHEN 1003 THEN 2\n             END\n    WHERE id IN (1001,1002,1003)",
+        "detail": "three_part.redis.延时队列.redis_zset_mq",
+        "documentation": {}
+    },
+    {
+        "label": "zrangebyscore_and_rem",
+        "kind": 2,
+        "importPath": "three_part.redis.延时队列.redis_zset_mq",
+        "description": "three_part.redis.延时队列.redis_zset_mq",
+        "peekOfCode": "def zrangebyscore_and_rem(key, min, max, limit):\n    zrangebyscore_and_rem_str = \"\"\"\n        local message = redis.call('ZRANGEBYSCORE', KEYS[1], ARGV[1], ARGV[2], 'LIMIT', 0, ARGV[3]);\n        if #message > 0 then\n            for i = 1, #message do \n                redis.call('ZREM', KEYS[1], message[i]);\n            end \n            return message;\n        else\n            return {};",
+        "detail": "three_part.redis.延时队列.redis_zset_mq",
+        "documentation": {}
+    },
+    {
+        "label": "get_change_orders",
+        "kind": 2,
+        "importPath": "three_part.redis.延时队列.redis_zset_mq",
+        "description": "three_part.redis.延时队列.redis_zset_mq",
+        "peekOfCode": "def get_change_orders(time_min, time_max, limit):\n    return zrangebyscore_and_rem(\"paying_orders\", time_min, time_max, limit)\nif __name__ == '__main__':\n    try:\n        # 当前秒级时间戳\n        interval = 60\n        time_second_now = int(time.time())\n        time_second_ago = time_second_now - interval\n        # limit：每次需要处理的任务数量，可以根据需要配置成可传入参数\n        limit = 1000",
+        "detail": "three_part.redis.延时队列.redis_zset_mq",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "three_part.redis.延时队列.redis_zset_mq",
+        "description": "three_part.redis.延时队列.redis_zset_mq",
+        "peekOfCode": "client = redis.StrictRedis(host=\"127.0.0.1\", port=6379)\ndef mysql_close_orders(orderids):\n    # TODO： Mysql批量关闭orderids个订单\n    sql_1 = \"\"\"\n    UPDATE book_order\n             SET status = CASE id\n                 WHEN 1001 THEN 2\n                 WHEN 1002 THEN 2\n                 WHEN 1003 THEN 2\n             END",
+        "detail": "three_part.redis.延时队列.redis_zset_mq",
+        "documentation": {}
+    },
+    {
+        "label": "test_01",
+        "kind": 2,
+        "importPath": "three_part.redis.延时队列.redis_zset_mq_test",
+        "description": "three_part.redis.延时队列.redis_zset_mq_test",
+        "peekOfCode": "def test_01():\n    zrange = client.zrangebyscore(\"paying_orders\", 0, 1606724870, 0, 2)\n    print(type(zrange), zrange)  # redis_zset_mq.py .<class 'list'> [b'orderid0001', b'orderid0002']\n    if zrange:\n        orderids = [i.decode() for i in zrange]\n        print(orderids)\ndef test_02():\n    zrange = client.zrangebyscore(\"paying_orders\", 0, 1606724870, 0, 2, withscores=True,)\n    print(type(zrange), zrange) # redis_zset_mq.py .<class 'list'> [(b'orderid0001', 1606723465.0), (b'orderid0002', 1606723466.0)]",
+        "detail": "three_part.redis.延时队列.redis_zset_mq_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_02",
+        "kind": 2,
+        "importPath": "three_part.redis.延时队列.redis_zset_mq_test",
+        "description": "three_part.redis.延时队列.redis_zset_mq_test",
+        "peekOfCode": "def test_02():\n    zrange = client.zrangebyscore(\"paying_orders\", 0, 1606724870, 0, 2, withscores=True,)\n    print(type(zrange), zrange) # redis_zset_mq.py .<class 'list'> [(b'orderid0001', 1606723465.0), (b'orderid0002', 1606723466.0)]",
+        "detail": "three_part.redis.延时队列.redis_zset_mq_test",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "three_part.redis.延时队列.redis_zset_mq_test",
+        "description": "three_part.redis.延时队列.redis_zset_mq_test",
+        "peekOfCode": "client = redis.StrictRedis(host=\"127.0.0.1\", port=6379)\ndef test_01():\n    zrange = client.zrangebyscore(\"paying_orders\", 0, 1606724870, 0, 2)\n    print(type(zrange), zrange)  # redis_zset_mq.py .<class 'list'> [b'orderid0001', b'orderid0002']\n    if zrange:\n        orderids = [i.decode() for i in zrange]\n        print(orderids)\ndef test_02():\n    zrange = client.zrangebyscore(\"paying_orders\", 0, 1606724870, 0, 2, withscores=True,)\n    print(type(zrange), zrange) # redis_zset_mq.py .<class 'list'> [(b'orderid0001', 1606723465.0), (b'orderid0002', 1606723466.0)]",
+        "detail": "three_part.redis.延时队列.redis_zset_mq_test",
+        "documentation": {}
+    },
+    {
+        "label": "create_keys",
+        "kind": 2,
+        "importPath": "three_part.redis.线上批量删除键.create_keys",
+        "description": "three_part.redis.线上批量删除键.create_keys",
+        "peekOfCode": "def create_keys(prefix, amount):\n    pipe = client.pipeline(transaction=False)\n    for i in range(amount):\n        pipe.set(f\"{prefix}_{i}\",1,ex=A_HOUR)\n    pipe.execute()\n    time.sleep(0.5)\n    client.srandmember\nif __name__ == '__main__':\n    create_keys(\"tao_test_key\", 100000)\n    create_keys(\"tao_test_key1\", 200000)",
+        "detail": "three_part.redis.线上批量删除键.create_keys",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "three_part.redis.线上批量删除键.create_keys",
+        "description": "three_part.redis.线上批量删除键.create_keys",
+        "peekOfCode": "client = redis.StrictRedis(host=\"127.0.0.1\", port=6379)\nA_HOUR = 3600\ndef create_keys(prefix, amount):\n    pipe = client.pipeline(transaction=False)\n    for i in range(amount):\n        pipe.set(f\"{prefix}_{i}\",1,ex=A_HOUR)\n    pipe.execute()\n    time.sleep(0.5)\n    client.srandmember\nif __name__ == '__main__':",
+        "detail": "three_part.redis.线上批量删除键.create_keys",
+        "documentation": {}
+    },
+    {
+        "label": "A_HOUR",
+        "kind": 5,
+        "importPath": "three_part.redis.线上批量删除键.create_keys",
+        "description": "three_part.redis.线上批量删除键.create_keys",
+        "peekOfCode": "A_HOUR = 3600\ndef create_keys(prefix, amount):\n    pipe = client.pipeline(transaction=False)\n    for i in range(amount):\n        pipe.set(f\"{prefix}_{i}\",1,ex=A_HOUR)\n    pipe.execute()\n    time.sleep(0.5)\n    client.srandmember\nif __name__ == '__main__':\n    create_keys(\"tao_test_key\", 100000)",
+        "detail": "three_part.redis.线上批量删除键.create_keys",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "three_part.redis.线上批量删除键.delete_by_keys",
+        "description": "three_part.redis.线上批量删除键.delete_by_keys",
+        "peekOfCode": "def run():\n    start = time.time_ns()\n    print(start)\n    keys = client.keys(\"tao_test_key*\")\n    pipeline = client.pipeline(transaction=False)\n    for key in keys:\n        pipeline.delete(key.decode())\n    pipeline.execute()\n    end = time.time_ns()\n    print((end-start)/10e6) # 3658.0457646",
+        "detail": "three_part.redis.线上批量删除键.delete_by_keys",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "three_part.redis.线上批量删除键.delete_by_keys",
+        "description": "three_part.redis.线上批量删除键.delete_by_keys",
+        "peekOfCode": "client = redis.StrictRedis(host=\"127.0.0.1\", port=6379)\ndef run():\n    start = time.time_ns()\n    print(start)\n    keys = client.keys(\"tao_test_key*\")\n    pipeline = client.pipeline(transaction=False)\n    for key in keys:\n        pipeline.delete(key.decode())\n    pipeline.execute()\n    end = time.time_ns()",
+        "detail": "three_part.redis.线上批量删除键.delete_by_keys",
+        "documentation": {}
+    },
+    {
+        "label": "del_by_scan_keys",
+        "kind": 2,
+        "importPath": "three_part.redis.线上批量删除键.delete_keys_by_scan",
+        "description": "three_part.redis.线上批量删除键.delete_keys_by_scan",
+        "peekOfCode": "def del_by_scan_keys(pattern):\n    begin_pos = 0\n    while True:\n        result = client.scan(begin_pos, pattern, 10000)\n        return_pos, datalist = result\n        print(time.strftime(\"%Y-%m-%d %H:%M:%S\", time.localtime(time.time())), return_pos)\n        if len(datalist) > 0:\n            print(time.strftime(\"%Y-%m-%d %H:%M:%S\", time.localtime(time.time())), \"delete\", len(datalist))\n            client.delete(*datalist)\n        if return_pos == 0:",
+        "detail": "three_part.redis.线上批量删除键.delete_keys_by_scan",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "three_part.redis.线上批量删除键.delete_keys_by_scan",
+        "description": "three_part.redis.线上批量删除键.delete_keys_by_scan",
+        "peekOfCode": "client = redis.StrictRedis(host=\"127.0.0.1\", port=6379)\ndef del_by_scan_keys(pattern):\n    begin_pos = 0\n    while True:\n        result = client.scan(begin_pos, pattern, 10000)\n        return_pos, datalist = result\n        print(time.strftime(\"%Y-%m-%d %H:%M:%S\", time.localtime(time.time())), return_pos)\n        if len(datalist) > 0:\n            print(time.strftime(\"%Y-%m-%d %H:%M:%S\", time.localtime(time.time())), \"delete\", len(datalist))\n            client.delete(*datalist)",
+        "detail": "three_part.redis.线上批量删除键.delete_keys_by_scan",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "three_part.redis.redis_lua",
+        "description": "three_part.redis.redis_lua",
+        "peekOfCode": "client = redis.StrictRedis(host=\"127.0.0.1\", port=6379)\n#             redis.call('ZREMRANGEBYSCORE', KEYS[1], ARGV[1], ARGV[2]);\nif __name__ == '__main__':\n    zrangebyscore_and_rem = \"\"\"\n        local message = redis.call('ZRANGEBYSCORE', KEYS[1], ARGV[1], ARGV[2], 'LIMIT', 0, ARGV[3]);\n        if #message > 0 then\n            for i = 1, #message do \n                redis.call('ZREM', KEYS[1], message[i]);\n            end \n            return message;",
+        "detail": "three_part.redis.redis_lua",
+        "documentation": {}
+    },
+    {
+        "label": "test_01",
+        "kind": 2,
+        "importPath": "three_part.redis.redis_test",
+        "description": "three_part.redis.redis_test",
+        "peekOfCode": "def test_01():\n    print(\"hello\")\n    client.sadd(\"\")",
+        "detail": "three_part.redis.redis_test",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "three_part.redis.redis_test",
+        "description": "three_part.redis.redis_test",
+        "peekOfCode": "client = redis.StrictRedis(host=\"127.0.0.1\", port=6379)\ndef test_01():\n    print(\"hello\")\n    client.sadd(\"\")",
+        "detail": "three_part.redis.redis_test",
+        "documentation": {}
+    },
+    {
+        "label": "q",
+        "kind": 5,
+        "importPath": "three_part.七牛.demo1",
+        "description": "three_part.七牛.demo1",
+        "peekOfCode": "q = Auth(access_key, secret_key)\n#要上传的空间\nbucket_name = 'python_wx_pic'\n#上传后保存的文件名\nkey = 'test.jpg'\n#生成上传 Token，可以指定过期时间等\ntoken = q.upload_token(bucket_name, key, 3600)\n#要上传文件的本地路径\nlocalfile = 'bbb.jpg'\nret, info = put_file(token, key, localfile)",
+        "detail": "three_part.七牛.demo1",
+        "documentation": {}
+    },
+    {
+        "label": "bucket_name",
+        "kind": 5,
+        "importPath": "three_part.七牛.demo1",
+        "description": "three_part.七牛.demo1",
+        "peekOfCode": "bucket_name = 'python_wx_pic'\n#上传后保存的文件名\nkey = 'test.jpg'\n#生成上传 Token，可以指定过期时间等\ntoken = q.upload_token(bucket_name, key, 3600)\n#要上传文件的本地路径\nlocalfile = 'bbb.jpg'\nret, info = put_file(token, key, localfile)\nprint(info)\nassert ret['key'] == key",
+        "detail": "three_part.七牛.demo1",
+        "documentation": {}
+    },
+    {
+        "label": "key",
+        "kind": 5,
+        "importPath": "three_part.七牛.demo1",
+        "description": "three_part.七牛.demo1",
+        "peekOfCode": "key = 'test.jpg'\n#生成上传 Token，可以指定过期时间等\ntoken = q.upload_token(bucket_name, key, 3600)\n#要上传文件的本地路径\nlocalfile = 'bbb.jpg'\nret, info = put_file(token, key, localfile)\nprint(info)\nassert ret['key'] == key\nassert ret['hash'] == etag(localfile)",
+        "detail": "three_part.七牛.demo1",
+        "documentation": {}
+    },
+    {
+        "label": "token",
+        "kind": 5,
+        "importPath": "three_part.七牛.demo1",
+        "description": "three_part.七牛.demo1",
+        "peekOfCode": "token = q.upload_token(bucket_name, key, 3600)\n#要上传文件的本地路径\nlocalfile = 'bbb.jpg'\nret, info = put_file(token, key, localfile)\nprint(info)\nassert ret['key'] == key\nassert ret['hash'] == etag(localfile)",
+        "detail": "three_part.七牛.demo1",
+        "documentation": {}
+    },
+    {
+        "label": "localfile",
+        "kind": 5,
+        "importPath": "three_part.七牛.demo1",
+        "description": "three_part.七牛.demo1",
+        "peekOfCode": "localfile = 'bbb.jpg'\nret, info = put_file(token, key, localfile)\nprint(info)\nassert ret['key'] == key\nassert ret['hash'] == etag(localfile)",
+        "detail": "three_part.七牛.demo1",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_message",
+        "kind": 2,
+        "importPath": "util.crypto_aes",
+        "description": "util.crypto_aes",
+        "peekOfCode": "def encrypt_message(message: str, key: bytes) -> bytes:\n    f = Fernet(key)\n    return f.encrypt(message.encode())\n# 解密字符串\ndef decrypt_message(message: bytes, key: bytes) -> str:\n    f = Fernet(key)\n    return f.decrypt(message).decode()\ndef main():\n    \"\"\"\n    使用说明",
+        "detail": "util.crypto_aes",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_message",
+        "kind": 2,
+        "importPath": "util.crypto_aes",
+        "description": "util.crypto_aes",
+        "peekOfCode": "def decrypt_message(message: bytes, key: bytes) -> str:\n    f = Fernet(key)\n    return f.decrypt(message).decode()\ndef main():\n    \"\"\"\n    使用说明\n    python3 current.py test_in.md test_out\n    \"\"\"\n    input = sys.argv[1]\n    out = sys.argv[2]",
+        "detail": "util.crypto_aes",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "util.crypto_aes",
+        "description": "util.crypto_aes",
+        "peekOfCode": "def main():\n    \"\"\"\n    使用说明\n    python3 current.py test_in.md test_out\n    \"\"\"\n    input = sys.argv[1]\n    out = sys.argv[2]\n    # 加密示例\n    encrypted_message = \"\"\n    with open(input, \"r\") as f:",
+        "detail": "util.crypto_aes",
+        "documentation": {}
+    },
+    {
+        "label": "key",
+        "kind": 5,
+        "importPath": "util.crypto_aes",
+        "description": "util.crypto_aes",
+        "peekOfCode": "key = Fernet.generate_key()\n# 加密字符串\ndef encrypt_message(message: str, key: bytes) -> bytes:\n    f = Fernet(key)\n    return f.encrypt(message.encode())\n# 解密字符串\ndef decrypt_message(message: bytes, key: bytes) -> str:\n    f = Fernet(key)\n    return f.decrypt(message).decode()\ndef main():",
+        "detail": "util.crypto_aes",
+        "documentation": {}
+    }
+]

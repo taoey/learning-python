@@ -4,4 +4,12 @@
     "editor.codeActionsOnSave": {
         "source.organizeImports": true // 保存时整理 import ，去掉没用的导包
     },
+    // python 单测
+    "python.testing.pytestArgs": [
+        ".",
+        "-s", // 打印 print内容
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.autoTestDiscoverOnSaveEnabled": false,
 }
